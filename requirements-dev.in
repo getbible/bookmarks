@@ -1,0 +1,5 @@
+# Development and CI tooling; exact hashed lock in requirements-dev.txt.
+-r requirements.in
+ruff
+mypy
+jsonschema
