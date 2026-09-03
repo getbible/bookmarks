@@ -1,7 +1,5 @@
 {
   "schema_version": 1,
-  "catalog_version": 1,
-  "checksum": "2a8d4f5e06efb4006e8f0b52b790ef5861dc9152f746678d77e3255b7b3f42a3",
   "locales": [
     {
       "code": "af",
@@ -24,23 +22,8 @@
       "topics": 61
     },
     {
-      "code": "chr",
-      "name": "Cherokee",
-      "topics": 61
-    },
-    {
-      "code": "cop",
-      "name": "Coptic",
-      "topics": 61
-    },
-    {
       "code": "cs",
       "name": "Czech",
-      "topics": 61
-    },
-    {
-      "code": "cu",
-      "name": "Church Slavonic",
       "topics": 61
     },
     {
@@ -61,11 +44,6 @@
     {
       "code": "en",
       "name": "English",
-      "topics": 61
-    },
-    {
-      "code": "enm",
-      "name": "Middle English",
       "topics": 61
     },
     {
@@ -104,16 +82,6 @@
       "topics": 61
     },
     {
-      "code": "got",
-      "name": "Gothic",
-      "topics": 61
-    },
-    {
-      "code": "grc",
-      "name": "Ancient Greek",
-      "topics": 61
-    },
-    {
       "code": "gv",
       "name": "Manx",
       "topics": 61
@@ -121,11 +89,6 @@
     {
       "code": "hbo",
       "name": "Ancient Hebrew",
-      "topics": 61
-    },
-    {
-      "code": "he",
-      "name": "Hebrew",
       "topics": 61
     },
     {
@@ -141,6 +104,11 @@
     {
       "code": "hy",
       "name": "Armenian",
+      "topics": 61
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
       "topics": 61
     },
     {
@@ -184,11 +152,6 @@
       "topics": 61
     },
     {
-      "code": "mlf",
-      "name": null,
-      "topics": 61
-    },
-    {
       "code": "mn",
       "name": "Mongolian",
       "topics": 61
@@ -224,21 +187,6 @@
       "topics": 61
     },
     {
-      "code": "pon",
-      "name": "Pohnpeian",
-      "topics": 61
-    },
-    {
-      "code": "pot",
-      "name": "Potawatomi",
-      "topics": 61
-    },
-    {
-      "code": "ppk",
-      "name": "Uma",
-      "topics": 61
-    },
-    {
       "code": "prs",
       "name": "Dari",
       "topics": 61
@@ -246,11 +194,6 @@
     {
       "code": "pt",
       "name": "Portuguese",
-      "topics": 61
-    },
-    {
-      "code": "rmq",
-      "name": "Calo",
       "topics": 61
     },
     {
@@ -289,11 +232,6 @@
       "topics": 61
     },
     {
-      "code": "syr",
-      "name": "Syriac",
-      "topics": 61
-    },
-    {
       "code": "th",
       "name": "Thai",
       "topics": 61
@@ -304,11 +242,6 @@
       "topics": 61
     },
     {
-      "code": "tlh",
-      "name": "Klingon",
-      "topics": 61
-    },
-    {
       "code": "tpi",
       "name": "Tok Pisin",
       "topics": 61
@@ -316,11 +249,6 @@
     {
       "code": "tr",
       "name": "Turkish",
-      "topics": 61
-    },
-    {
-      "code": "tsg",
-      "name": "Tausug",
       "topics": 61
     },
     {
@@ -336,11 +264,6 @@
     {
       "code": "zh",
       "name": "Chinese",
-      "topics": 61
-    },
-    {
-      "code": "zh-hans",
-      "name": "Chinese (Simplified)",
       "topics": 61
     },
     {
