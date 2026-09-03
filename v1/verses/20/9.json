@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 9,
+  "verses": {
+    "10": ["longevity", "wisdom-cause"],
+    "11": ["longevity"],
+    "12": ["wisdom-fruit"]
+  }
+}

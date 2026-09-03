@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "book": 49,
+  "chapter": 4,
+  "verses": {
+    "5": ["baptism"],
+    "7": ["grace"],
+    "11": ["christian-offices"],
+    "12": ["christian-offices", "leadership"],
+    "16": ["biblical-love"],
+    "23": ["renewing-of-the-mind"]
+  }
+}

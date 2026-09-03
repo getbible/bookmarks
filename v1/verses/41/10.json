@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "book": 41,
+  "chapter": 10,
+  "verses": {
+    "2": ["adultery"],
+    "3": ["adultery"],
+    "4": ["adultery"],
+    "5": ["adultery"],
+    "6": ["adultery", "marriage"],
+    "7": ["adultery", "mans-role", "marriage"],
+    "8": ["adultery", "marriage"],
+    "9": ["adultery", "marriage"],
+    "10": ["adultery"],
+    "11": ["adultery"],
+    "12": ["adultery"],
+    "17": ["no-one-is-good"],
+    "18": ["no-one-is-good"],
+    "27": ["omnipotent"]
+  }
+}

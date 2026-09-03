@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "book": 56,
+  "chapter": 2,
+  "verses": {
+    "2": ["leadership", "mans-role"],
+    "3": ["wine"],
+    "4": ["womans-role"],
+    "5": ["orderly-home", "womans-role"],
+    "6": ["mans-role"],
+    "11": ["grace", "repentance", "spiritual-rebirth"],
+    "15": ["spiritual-judgment"]
+  }
+}

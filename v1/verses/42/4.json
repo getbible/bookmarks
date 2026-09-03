@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapter": 4,
+  "verses": {
+    "5": ["prince-of-this-world"],
+    "6": ["prince-of-this-world"],
+    "7": ["prince-of-this-world"],
+    "8": ["prince-of-this-world"],
+    "13": ["prince-of-this-world"]
+  }
+}

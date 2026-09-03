@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "book": 10,
+  "chapters": {
+    "6": {
+      "23": ["family-planning"]
+    },
+    "7": {
+      "9": ["providence"],
+      "14": ["discipline"]
+    },
+    "12": {
+      "16": ["effective-prayer"]
+    },
+    "22": {
+      "31": ["word-of-god"]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 1,
+  "chapter": 2,
+  "verses": {
+    "7": ["what-is-life"],
+    "20": ["womans-role"],
+    "23": ["mans-role"],
+    "24": ["mans-role", "marriage", "sodomy"]
+  }
+}

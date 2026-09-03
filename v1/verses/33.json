@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "book": 33,
+  "chapters": {
+    "2": {
+      "11": ["wine"]
+    },
+    "4": {
+      "7": ["immutability"]
+    },
+    "6": {
+      "7": ["spiritual-judgment"],
+      "8": ["spiritual-judgment"]
+    },
+    "7": {
+      "7": ["effective-prayer"]
+    }
+  }
+}

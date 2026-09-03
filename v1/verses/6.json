@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "book": 6,
+  "chapters": {
+    "1": {
+      "8": ["obey-gods-commandments"]
+    },
+    "8": {
+      "1": ["fear-not"],
+      "35": ["education"]
+    },
+    "10": {
+      "25": ["fear-not"]
+    },
+    "22": {
+      "5": ["biblical-love", "obey-gods-commandments"]
+    },
+    "24": {
+      "3": ["family-planning"],
+      "15": ["orderly-home"]
+    }
+  }
+}

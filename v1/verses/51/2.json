@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "book": 51,
+  "chapter": 2,
+  "verses": {
+    "8": ["education"],
+    "9": ["jesus-christs-deity"],
+    "12": ["baptism", "ordinances"],
+    "16": ["dietary-guidance", "first-day"],
+    "20": ["dietary-guidance", "longevity"],
+    "21": ["dietary-guidance", "longevity"],
+    "22": ["dietary-guidance", "longevity"],
+    "23": ["dietary-guidance", "longevity"]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "book": 49,
+  "chapter": 5,
+  "verses": {
+    "2": ["biblical-love"],
+    "3": ["dating"],
+    "11": ["no-fellowship"],
+    "18": ["wine"],
+    "22": ["womans-role"],
+    "23": ["mans-role", "marriage", "womans-role"],
+    "24": ["marriage", "womans-role"],
+    "25": ["mans-role", "marriage"],
+    "28": ["mans-role"],
+    "31": ["marriage"],
+    "33": ["mans-role", "marriage", "womans-role"]
+  }
+}

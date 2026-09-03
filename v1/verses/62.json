@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "book": 62,
+  "chapters": {
+    "2": {
+      "3": ["obey-gods-commandments"],
+      "4": ["obey-gods-commandments"],
+      "5": ["biblical-love", "obey-gods-commandments"],
+      "6": ["obey-gods-commandments"],
+      "10": ["biblical-love"],
+      "11": ["biblical-love"],
+      "15": ["no-fellowship"],
+      "16": ["no-fellowship"],
+      "17": ["no-fellowship"]
+    },
+    "3": {
+      "8": ["prince-of-this-world"],
+      "16": ["biblical-love"],
+      "20": ["omniscient"],
+      "24": ["obey-gods-commandments"]
+    },
+    "4": {
+      "2": ["jesus-christs-humanity"],
+      "3": ["jesus-christs-humanity"],
+      "4": ["prince-of-this-world"],
+      "7": ["biblical-love"],
+      "8": ["biblical-love"],
+      "9": ["biblical-love"],
+      "10": ["biblical-love"],
+      "11": ["biblical-love"],
+      "12": ["biblical-love"],
+      "13": ["biblical-love"],
+      "14": ["biblical-love"],
+      "15": ["biblical-love"],
+      "16": ["biblical-love"],
+      "17": ["biblical-love", "gods-judgment"],
+      "18": ["biblical-love"],
+      "19": ["biblical-love"],
+      "20": ["biblical-love"],
+      "21": ["biblical-love"]
+    },
+    "5": {
+      "1": ["free-will"],
+      "3": ["biblical-love", "obey-gods-commandments"],
+      "9": ["jesus-christs-deity"],
+      "10": ["jesus-christs-deity"],
+      "12": ["what-is-life"],
+      "20": ["jesus-christs-deity"]
+    }
+  }
+}

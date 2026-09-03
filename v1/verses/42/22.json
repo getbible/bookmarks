@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapter": 22,
+  "verses": {
+    "16": ["communion"],
+    "17": ["communion"],
+    "18": ["communion"],
+    "19": ["communion"],
+    "20": ["communion"],
+    "40": ["temptation"],
+    "46": ["temptation"],
+    "61": ["jesus-christs-deity"],
+    "69": ["jesus-christs-deity"],
+    "70": ["jesus-christs-deity"]
+  }
+}

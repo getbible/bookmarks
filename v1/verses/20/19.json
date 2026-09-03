@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 19,
+  "verses": {
+    "8": ["wisdom-value"],
+    "18": ["discipline"],
+    "20": ["discipline", "wisdom-cause"],
+    "21": ["immutability"],
+    "23": ["longevity"],
+    "25": ["discipline"],
+    "27": ["discipline"],
+    "29": ["discipline"]
+  }
+}

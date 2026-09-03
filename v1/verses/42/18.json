@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapter": 18,
+  "verses": {
+    "18": ["no-one-is-good"],
+    "19": ["no-one-is-good"],
+    "42": ["saved-by-faith", "spiritual-rebirth"]
+  }
+}

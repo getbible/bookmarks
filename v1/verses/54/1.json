@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "book": 54,
+  "chapter": 1,
+  "verses": {
+    "12": ["grace"],
+    "13": ["grace"],
+    "14": ["grace"],
+    "17": ["immutability"],
+    "19": ["conditional-security"]
+  }
+}

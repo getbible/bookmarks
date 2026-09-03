@@ -1,0 +1,281 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapters": {
+    "1": {
+      "7": ["discipline", "wisdom-fruit"],
+      "8": ["discipline", "education"],
+      "10": ["temptation"],
+      "15": ["no-fellowship"],
+      "16": ["no-fellowship"],
+      "20": ["wisdom-origin"],
+      "21": ["wisdom-origin"],
+      "22": ["wisdom-origin"],
+      "23": ["wisdom-origin"],
+      "24": ["gods-judgment"],
+      "25": ["gods-judgment"],
+      "26": ["gods-judgment"],
+      "27": ["gods-judgment"],
+      "28": ["gods-judgment"],
+      "29": ["gods-judgment"],
+      "30": ["gods-judgment"],
+      "31": ["gods-judgment"],
+      "33": ["conditional-security"]
+    },
+    "2": {
+      "1": ["renewing-of-the-mind"],
+      "2": ["renewing-of-the-mind"],
+      "3": ["renewing-of-the-mind"],
+      "4": ["renewing-of-the-mind"],
+      "5": ["renewing-of-the-mind"],
+      "16": ["adultery"],
+      "17": ["adultery"]
+    },
+    "3": {
+      "1": ["education", "longevity"],
+      "2": ["longevity"],
+      "7": ["wisdom-fruit"],
+      "11": ["discipline"],
+      "12": ["discipline"],
+      "13": ["wisdom-fruit", "wisdom-value"],
+      "21": ["conditional-security"],
+      "22": ["conditional-security"],
+      "23": ["conditional-security"],
+      "24": ["conditional-security"],
+      "33": ["blessings-and-curses"]
+    },
+    "4": {
+      "1": ["discipline"],
+      "2": ["education"],
+      "7": ["wisdom-value"],
+      "10": ["education", "longevity"],
+      "13": ["discipline"],
+      "14": ["no-fellowship"],
+      "20": ["longevity"],
+      "21": ["longevity"],
+      "22": ["longevity"]
+    },
+    "5": {
+      "12": ["discipline"],
+      "18": ["adultery", "mans-role", "marriage"],
+      "19": ["adultery", "marriage"],
+      "20": ["adultery", "dating"],
+      "21": ["omnipresent"],
+      "23": ["discipline"]
+    },
+    "6": {
+      "20": ["education"],
+      "21": ["education"],
+      "22": ["education"],
+      "23": ["discipline", "education"],
+      "24": ["adultery", "flattery"],
+      "25": ["adultery"],
+      "26": ["adultery"],
+      "27": ["adultery"],
+      "28": ["adultery"],
+      "29": ["adultery"],
+      "30": ["adultery"],
+      "31": ["adultery"],
+      "32": ["adultery"]
+    },
+    "7": {
+      "1": ["obey-government-laws"],
+      "2": ["obey-gods-commandments", "what-is-life"],
+      "10": ["adultery"],
+      "11": ["adultery"],
+      "12": ["adultery"],
+      "21": ["flattery"],
+      "25": ["adultery"],
+      "26": ["adultery"],
+      "27": ["adultery"]
+    },
+    "8": {
+      "10": ["discipline"],
+      "11": ["wisdom-value"],
+      "17": ["free-will"],
+      "33": ["wisdom-cause"]
+    },
+    "9": {
+      "10": ["longevity", "wisdom-cause"],
+      "11": ["longevity"],
+      "12": ["wisdom-fruit"]
+    },
+    "10": {
+      "6": ["blessings-and-curses"],
+      "8": ["wisdom-fruit"],
+      "12": ["biblical-love"],
+      "13": ["discipline"],
+      "17": ["discipline"],
+      "22": ["blessings-and-curses"],
+      "27": ["longevity"]
+    },
+    "11": {
+      "2": ["wisdom-fruit"],
+      "19": ["longevity"],
+      "30": ["wisdom-fruit"]
+    },
+    "12": {
+      "1": ["discipline"],
+      "21": ["conditional-security"],
+      "28": ["longevity", "what-is-life"]
+    },
+    "13": {
+      "1": ["discipline"],
+      "13": ["authority-of-the-bible"],
+      "20": ["education", "no-fellowship", "wisdom-cause"]
+    },
+    "14": {
+      "1": ["womans-role"],
+      "7": ["education"],
+      "28": ["leadership"],
+      "35": ["leadership"]
+    },
+    "15": {
+      "3": ["omnipresent"],
+      "5": ["discipline"],
+      "8": ["effective-prayer"],
+      "10": ["discipline"],
+      "11": ["omniscient"],
+      "29": ["effective-prayer"],
+      "31": ["discipline"],
+      "32": ["discipline"],
+      "33": ["discipline", "wisdom-origin"]
+    },
+    "16": {
+      "12": ["leadership"],
+      "13": ["leadership"],
+      "16": ["wisdom-value"],
+      "31": ["longevity"]
+    },
+    "17": {
+      "6": ["education", "family-planning"]
+    },
+    "18": {
+      "4": ["wisdom-value"],
+      "22": ["marriage"]
+    },
+    "19": {
+      "8": ["wisdom-value"],
+      "18": ["discipline"],
+      "20": ["discipline", "wisdom-cause"],
+      "21": ["immutability"],
+      "23": ["longevity"],
+      "25": ["discipline"],
+      "27": ["discipline"],
+      "29": ["discipline"]
+    },
+    "20": {
+      "1": ["wine", "wisdom-fruit"],
+      "8": ["leadership"],
+      "19": ["flattery"],
+      "22": ["non-resistance"],
+      "26": ["leadership"],
+      "28": ["leadership"],
+      "30": ["discipline"]
+    },
+    "21": {
+      "1": ["leadership"],
+      "3": ["spiritual-judgment"],
+      "9": ["womans-role"],
+      "19": ["womans-role"]
+    },
+    "22": {
+      "5": ["no-fellowship"],
+      "6": ["education"],
+      "15": ["discipline"],
+      "24": ["no-fellowship"]
+    },
+    "23": {
+      "1": ["dietary-guidance"],
+      "2": ["dietary-guidance"],
+      "7": ["renewing-of-the-mind"],
+      "13": ["discipline"],
+      "14": ["discipline"],
+      "19": ["education"],
+      "20": ["wine"],
+      "21": ["wine"],
+      "23": ["discipline", "wisdom-value"],
+      "29": ["wine"],
+      "30": ["wine"],
+      "31": ["wine"],
+      "32": ["wine"],
+      "33": ["wine"],
+      "34": ["wine"],
+      "35": ["wine"]
+    },
+    "24": {
+      "1": ["no-fellowship"],
+      "3": ["wisdom-fruit"],
+      "7": ["worldly-wisdom"],
+      "12": ["gods-judgment"],
+      "14": ["wisdom-value"],
+      "21": ["obey-government-laws"],
+      "24": ["flattery"],
+      "29": ["non-resistance"]
+    },
+    "25": {
+      "2": ["leadership"],
+      "21": ["non-resistance"],
+      "22": ["non-resistance"],
+      "24": ["womans-role"],
+      "27": ["dietary-guidance"]
+    },
+    "26": {
+      "2": ["blessings-and-curses"],
+      "28": ["flattery"]
+    },
+    "27": {
+      "15": ["womans-role"]
+    },
+    "28": {
+      "9": ["effective-prayer"],
+      "16": ["longevity"],
+      "20": ["blessings-and-curses"],
+      "23": ["flattery"],
+      "26": ["worldly-wisdom"]
+    },
+    "29": {
+      "1": ["repentance"],
+      "4": ["leadership"],
+      "5": ["flattery"],
+      "12": ["leadership"],
+      "14": ["leadership"],
+      "15": ["discipline"],
+      "17": ["discipline"]
+    },
+    "30": {
+      "3": ["wisdom-fruit"],
+      "4": ["spirit-of-prophecy"],
+      "5": ["authority-of-the-bible"],
+      "6": ["authority-of-the-bible"]
+    },
+    "31": {
+      "4": ["wine"],
+      "5": ["wine"],
+      "6": ["wine"],
+      "7": ["wine"],
+      "10": ["womans-role"],
+      "11": ["womans-role"],
+      "12": ["womans-role"],
+      "13": ["womans-role"],
+      "14": ["womans-role"],
+      "15": ["womans-role"],
+      "16": ["wisdom-value"],
+      "17": ["womans-role"],
+      "18": ["womans-role"],
+      "19": ["womans-role"],
+      "20": ["womans-role"],
+      "21": ["womans-role"],
+      "22": ["womans-role"],
+      "23": ["womans-role"],
+      "24": ["womans-role"],
+      "25": ["womans-role"],
+      "26": ["womans-role"],
+      "27": ["womans-role"],
+      "28": ["womans-role"],
+      "29": ["womans-role"],
+      "30": ["womans-role"],
+      "31": ["womans-role"]
+    }
+  }
+}

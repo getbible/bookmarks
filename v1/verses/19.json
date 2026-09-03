@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "book": 19,
+  "chapters": {
+    "1": {
+      "1": ["no-fellowship"]
+    },
+    "2": {
+      "7": ["spirit-of-prophecy"],
+      "12": ["spirit-of-prophecy"]
+    },
+    "3": {
+      "8": ["blessings-and-curses"]
+    },
+    "4": {
+      "3": ["effective-prayer"],
+      "4": ["effective-prayer"]
+    },
+    "5": {
+      "9": ["flattery"]
+    },
+    "6": {
+      "3": ["discipline"]
+    },
+    "9": {
+      "7": ["immutability"],
+      "16": ["gods-judgment"]
+    },
+    "12": {
+      "3": ["flattery"],
+      "6": ["word-of-god"],
+      "7": ["word-of-god"]
+    },
+    "13": {
+      "1": ["discipline"]
+    },
+    "14": {
+      "1": ["no-one-is-good"],
+      "2": ["no-one-is-good"],
+      "3": ["no-one-is-good"]
+    },
+    "18": {
+      "1": ["biblical-love"],
+      "6": ["effective-prayer"]
+    },
+    "19": {
+      "7": ["authority-of-the-bible"],
+      "8": ["obey-gods-commandments"]
+    },
+    "22": {
+      "1": ["spirit-of-prophecy"],
+      "6": ["spirit-of-prophecy"],
+      "7": ["spirit-of-prophecy"],
+      "8": ["spirit-of-prophecy"],
+      "12": ["spirit-of-prophecy"],
+      "14": ["spirit-of-prophecy"],
+      "15": ["spirit-of-prophecy"],
+      "16": ["spirit-of-prophecy"],
+      "17": ["spirit-of-prophecy"],
+      "18": ["spirit-of-prophecy"]
+    },
+    "31": {
+      "23": ["biblical-love"]
+    },
+    "33": {
+      "11": ["immutability"]
+    },
+    "34": {
+      "7": ["conditional-security"],
+      "11": ["education"],
+      "12": ["longevity"],
+      "13": ["longevity"],
+      "14": ["longevity"],
+      "17": ["effective-prayer"]
+    },
+    "35": {
+      "17": ["discipline"]
+    },
+    "36": {
+      "2": ["flattery"],
+      "3": ["flattery"],
+      "6": ["gods-judgment"],
+      "9": ["what-is-life"]
+    },
+    "37": {
+      "30": ["wisdom-fruit"],
+      "31": ["wisdom-fruit"]
+    },
+    "39": {
+      "4": ["what-is-life"],
+      "5": ["what-is-life"]
+    },
+    "41": {
+      "1": ["conditional-security"],
+      "2": ["conditional-security"],
+      "3": ["conditional-security"]
+    },
+    "42": {
+      "1": ["biblical-love"]
+    },
+    "53": {
+      "2": ["no-one-is-good"],
+      "3": ["no-one-is-good"]
+    },
+    "62": {
+      "12": ["gods-judgment"]
+    },
+    "66": {
+      "11": ["discipline"],
+      "18": ["effective-prayer"]
+    },
+    "69": {
+      "5": ["omniscient"]
+    },
+    "71": {
+      "19": ["no-one-is-good"]
+    },
+    "73": {
+      "25": ["biblical-love"]
+    },
+    "78": {
+      "7": ["obey-gods-commandments"]
+    },
+    "79": {
+      "5": ["discipline"]
+    },
+    "80": {
+      "4": ["discipline"]
+    },
+    "84": {
+      "2": ["biblical-love"],
+      "11": ["grace"]
+    },
+    "89": {
+      "34": ["immutability"],
+      "49": ["discipline"],
+      "50": ["discipline"]
+    },
+    "90": {
+      "7": ["discipline"],
+      "8": ["discipline"],
+      "13": ["discipline"]
+    },
+    "91": {
+      "4": ["conditional-security"],
+      "5": ["conditional-security"],
+      "14": ["longevity"],
+      "15": ["longevity"],
+      "16": ["longevity"]
+    },
+    "93": {
+      "5": ["authority-of-the-bible"]
+    },
+    "94": {
+      "3": ["discipline"],
+      "9": ["omnipresent"],
+      "11": ["omniscient"],
+      "12": ["discipline"],
+      "13": ["discipline"],
+      "14": ["discipline"],
+      "15": ["discipline"]
+    },
+    "101": {
+      "3": ["no-fellowship"],
+      "4": ["no-fellowship"]
+    },
+    "102": {
+      "27": ["immutability"]
+    },
+    "104": {
+      "14": ["dietary-guidance"],
+      "15": ["dietary-guidance"]
+    },
+    "107": {
+      "41": ["family-planning"],
+      "42": ["family-planning"],
+      "43": ["family-planning"]
+    },
+    "109": {
+      "6": ["effective-prayer"],
+      "7": ["effective-prayer"]
+    },
+    "111": {
+      "7": ["authority-of-the-bible"],
+      "10": ["wisdom-cause"]
+    },
+    "112": {
+      "7": ["conditional-security"]
+    },
+    "113": {
+      "9": ["family-planning"]
+    },
+    "115": {
+      "3": ["omnipotent"]
+    },
+    "116": {
+      "1": ["biblical-love"]
+    },
+    "119": {
+      "6": ["obey-gods-commandments"],
+      "9": ["word-of-god"],
+      "21": ["blessings-and-curses"],
+      "63": ["no-fellowship"],
+      "67": ["discipline"],
+      "89": ["immutability", "word-of-god"],
+      "98": ["wisdom-fruit"],
+      "99": ["wisdom-fruit"],
+      "103": ["word-of-god"],
+      "105": ["word-of-god"],
+      "130": ["word-of-god"],
+      "140": ["word-of-god"],
+      "152": ["authority-of-the-bible"],
+      "160": ["word-of-god"]
+    },
+    "121": {
+      "3": ["omnipotent", "omnipresent", "omniscient", "providence"]
+    },
+    "125": {
+      "1": ["conditional-security"],
+      "2": ["conditional-security"],
+      "5": ["conditional-security"]
+    },
+    "127": {
+      "1": ["education"],
+      "3": ["family-planning"],
+      "4": ["family-planning", "orderly-home"],
+      "5": ["family-planning", "orderly-home"]
+    },
+    "128": {
+      "3": ["family-planning"]
+    },
+    "135": {
+      "6": ["omnipotent"],
+      "13": ["immutability"]
+    },
+    "136": {
+      "25": ["dietary-guidance"]
+    },
+    "139": {
+      "7": ["omnipresent"],
+      "8": ["omnipresent"],
+      "9": ["omnipresent"],
+      "10": ["omnipresent"]
+    },
+    "141": {
+      "4": ["dietary-guidance"]
+    },
+    "144": {
+      "11": ["education"],
+      "12": ["education"]
+    },
+    "145": {
+      "13": ["immutability"],
+      "15": ["dietary-guidance"],
+      "16": ["dietary-guidance"]
+    },
+    "146": {
+      "5": ["providence"]
+    },
+    "147": {
+      "5": ["omniscient"]
+    }
+  }
+}

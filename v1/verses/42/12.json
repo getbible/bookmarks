@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapter": 12,
+  "verses": {
+    "7": ["fear-not"],
+    "8": ["free-will"],
+    "22": ["dietary-guidance"],
+    "23": ["dietary-guidance"],
+    "32": ["fear-not"],
+    "45": ["wine"],
+    "48": ["gods-judgment"]
+  }
+}

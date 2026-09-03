@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 45,
+  "chapter": 2,
+  "verses": {
+    "4": ["grace"],
+    "6": ["gods-judgment"],
+    "12": ["gods-judgment"],
+    "16": ["gods-judgment", "omniscient"]
+  }
+}

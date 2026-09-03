@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "book": 66,
+  "chapters": {
+    "1": {
+      "1": ["authority-of-the-bible"],
+      "8": ["immutability", "omnipotent"],
+      "10": ["first-day"],
+      "13": ["christian-clothing"],
+      "17": ["fear-not"]
+    },
+    "2": {
+      "3": ["discipline"],
+      "4": ["conditional-security"],
+      "16": ["repentance"],
+      "20": ["womans-role"],
+      "23": ["gods-judgment"],
+      "26": ["conditional-security"]
+    },
+    "3": {
+      "5": ["conditional-security"],
+      "10": ["temptation"],
+      "18": ["christian-clothing"],
+      "19": ["repentance"],
+      "20": ["repentance"]
+    },
+    "7": {
+      "14": ["discipline"]
+    },
+    "9": {
+      "11": ["prince-of-this-world"]
+    },
+    "11": {
+      "15": ["immutability", "prince-of-this-world"],
+      "17": ["immutability", "omnipotent"]
+    },
+    "12": {
+      "9": ["prince-of-this-world"],
+      "10": ["prince-of-this-world"]
+    },
+    "13": {
+      "10": ["non-resistance"]
+    },
+    "14": {
+      "12": ["obey-gods-commandments"]
+    },
+    "16": {
+      "14": ["prince-of-this-world"]
+    },
+    "18": {
+      "4": ["no-fellowship"]
+    },
+    "19": {
+      "6": ["omnipotent"]
+    },
+    "20": {
+      "2": ["prince-of-this-world"],
+      "3": ["prince-of-this-world"],
+      "10": ["prince-of-this-world"],
+      "12": ["gods-judgment"],
+      "13": ["gods-judgment"]
+    },
+    "22": {
+      "3": ["blessings-and-curses"],
+      "12": ["gods-judgment"],
+      "14": ["obey-gods-commandments"],
+      "17": ["free-will"],
+      "21": ["grace"]
+    }
+  }
+}

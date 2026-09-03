@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "book": 48,
+  "chapter": 3,
+  "verses": {
+    "1": ["saved-by-faith"],
+    "2": ["saved-by-faith"],
+    "3": ["saved-by-faith"],
+    "4": ["saved-by-faith"],
+    "5": ["saved-by-faith"],
+    "6": ["saved-by-faith"],
+    "7": ["saved-by-faith"],
+    "8": ["saved-by-faith"],
+    "9": ["saved-by-faith"],
+    "10": ["blessings-and-curses", "saved-by-faith"],
+    "11": ["saved-by-faith"],
+    "12": ["longevity", "saved-by-faith"],
+    "13": ["blessings-and-curses", "saved-by-faith"],
+    "14": ["saved-by-faith"],
+    "27": ["baptism"]
+  }
+}

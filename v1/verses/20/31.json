@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 31,
+  "verses": {
+    "4": ["wine"],
+    "5": ["wine"],
+    "6": ["wine"],
+    "7": ["wine"],
+    "10": ["womans-role"],
+    "11": ["womans-role"],
+    "12": ["womans-role"],
+    "13": ["womans-role"],
+    "14": ["womans-role"],
+    "15": ["womans-role"],
+    "16": ["wisdom-value"],
+    "17": ["womans-role"],
+    "18": ["womans-role"],
+    "19": ["womans-role"],
+    "20": ["womans-role"],
+    "21": ["womans-role"],
+    "22": ["womans-role"],
+    "23": ["womans-role"],
+    "24": ["womans-role"],
+    "25": ["womans-role"],
+    "26": ["womans-role"],
+    "27": ["womans-role"],
+    "28": ["womans-role"],
+    "29": ["womans-role"],
+    "30": ["womans-role"],
+    "31": ["womans-role"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "book": 35,
+  "chapters": {
+    "2": {
+      "5": ["wine"],
+      "15": ["wine"]
+    },
+    "3": {
+      "6": ["omnipotent"]
+    }
+  }
+}

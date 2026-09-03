@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "book": 5,
+  "chapters": {
+    "1": {
+      "16": ["spiritual-judgment"],
+      "17": ["spiritual-judgment"]
+    },
+    "2": {
+      "7": ["providence"]
+    },
+    "3": {
+      "26": ["effective-prayer"]
+    },
+    "4": {
+      "2": ["authority-of-the-bible"],
+      "5": ["wisdom-cause"],
+      "6": ["wisdom-cause"],
+      "39": ["omnipresent"],
+      "40": ["obey-gods-commandments"]
+    },
+    "5": {
+      "33": ["longevity"]
+    },
+    "6": {
+      "5": ["biblical-love"],
+      "7": ["education", "orderly-home"],
+      "8": ["orderly-home"],
+      "9": ["education"],
+      "17": ["obey-gods-commandments"],
+      "20": ["education"],
+      "21": ["education"]
+    },
+    "7": {
+      "26": ["no-fellowship"]
+    },
+    "8": {
+      "5": ["discipline"],
+      "6": ["obey-gods-commandments"]
+    },
+    "9": {
+      "5": ["grace"]
+    },
+    "10": {
+      "13": ["obey-gods-commandments"],
+      "19": ["biblical-love"]
+    },
+    "11": {
+      "8": ["obey-gods-commandments"],
+      "19": ["education"],
+      "20": ["education"],
+      "21": ["education", "longevity"],
+      "26": ["blessings-and-curses"],
+      "27": ["blessings-and-curses"],
+      "28": ["blessings-and-curses"]
+    },
+    "12": {
+      "32": ["authority-of-the-bible"]
+    },
+    "16": {
+      "18": ["spiritual-judgment"],
+      "19": ["spiritual-judgment"]
+    },
+    "20": {
+      "7": ["dating"]
+    },
+    "21": {
+      "18": ["education"],
+      "19": ["education"]
+    },
+    "22": {
+      "5": ["christian-clothing"],
+      "22": ["adultery"]
+    },
+    "23": {
+      "17": ["sodomy"]
+    },
+    "24": {
+      "5": ["mans-role", "marriage"]
+    },
+    "25": {
+      "15": ["longevity"]
+    },
+    "26": {
+      "18": ["obey-gods-commandments"]
+    },
+    "29": {
+      "6": ["wine"]
+    },
+    "30": {
+      "2": ["repentance"]
+    },
+    "31": {
+      "6": ["fear-not"],
+      "7": ["fear-not"],
+      "8": ["fear-not"]
+    },
+    "32": {
+      "29": ["wisdom-fruit"],
+      "39": ["immutability"],
+      "40": ["immutability"],
+      "46": ["longevity", "obey-gods-commandments"],
+      "47": ["longevity"]
+    },
+    "33": {
+      "27": ["immutability"]
+    }
+  }
+}

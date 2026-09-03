@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "book": 54,
+  "chapter": 6,
+  "verses": {
+    "5": ["no-fellowship"],
+    "9": ["temptation"],
+    "10": ["conditional-security"],
+    "11": ["biblical-love"],
+    "17": ["dietary-guidance"],
+    "19": ["conditional-security"],
+    "20": ["education"],
+    "21": ["conditional-security"]
+  }
+}

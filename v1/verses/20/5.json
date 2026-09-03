@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 5,
+  "verses": {
+    "12": ["discipline"],
+    "18": ["adultery", "mans-role", "marriage"],
+    "19": ["adultery", "marriage"],
+    "20": ["adultery", "dating"],
+    "21": ["omnipresent"],
+    "23": ["discipline"]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "book": 25,
+  "chapter": 3,
+  "verses": {
+    "22": ["grace"],
+    "23": ["grace"],
+    "60": ["omnipresent"]
+  }
+}

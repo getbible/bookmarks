@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapter": 24,
+  "verses": {
+    "1": ["first-day"],
+    "2": ["first-day"],
+    "3": ["first-day"]
+  }
+}

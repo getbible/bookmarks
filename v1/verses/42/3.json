@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapter": 3,
+  "verses": {
+    "4": ["spiritual-rebirth"],
+    "5": ["spiritual-rebirth"],
+    "6": ["spiritual-rebirth"],
+    "12": ["baptism"],
+    "16": ["baptism"],
+    "21": ["baptism"]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 27,
+  "chapter": 2,
+  "verses": {
+    "20": ["wisdom-origin"],
+    "21": ["wisdom-origin"],
+    "22": ["omniscient", "wisdom-origin"],
+    "23": ["wisdom-origin"]
+  }
+}

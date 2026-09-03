@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 43,
+  "chapter": 20,
+  "verses": {
+    "1": ["first-day"],
+    "11": ["biblical-love"],
+    "19": ["first-day"],
+    "31": ["jesus-christs-deity"]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "book": 23,
+  "chapter": 5,
+  "verses": {
+    "11": ["musics-influence", "wine"],
+    "12": ["musics-influence", "wine"],
+    "13": ["musics-influence", "wine"],
+    "14": ["musics-influence"],
+    "21": ["worldly-wisdom"],
+    "22": ["wine"],
+    "23": ["wine"]
+  }
+}

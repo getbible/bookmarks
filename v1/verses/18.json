@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "book": 18,
+  "chapters": {
+    "1": {
+      "6": ["prince-of-this-world"]
+    },
+    "5": {
+      "17": ["discipline"],
+      "26": ["longevity"]
+    },
+    "6": {
+      "4": ["discipline"]
+    },
+    "11": {
+      "18": ["conditional-security"]
+    },
+    "12": {
+      "12": ["wisdom-origin"],
+      "13": ["wisdom-origin"]
+    },
+    "16": {
+      "12": ["discipline"]
+    },
+    "17": {
+      "5": ["flattery"]
+    },
+    "21": {
+      "12": ["musics-influence"],
+      "13": ["musics-influence"],
+      "14": ["musics-influence"],
+      "15": ["musics-influence"]
+    },
+    "23": {
+      "10": ["discipline"]
+    },
+    "24": {
+      "15": ["adultery"]
+    },
+    "26": {
+      "6": ["omniscient"]
+    },
+    "28": {
+      "12": ["wisdom-value"],
+      "13": ["wisdom-value"],
+      "14": ["wisdom-value"],
+      "15": ["wisdom-value"],
+      "16": ["wisdom-value"],
+      "18": ["wisdom-value"],
+      "19": ["wisdom-value"],
+      "20": ["wisdom-value"],
+      "21": ["wisdom-value"],
+      "22": ["wisdom-value"],
+      "23": ["wisdom-value"],
+      "24": ["omnipresent", "wisdom-value"],
+      "25": ["wisdom-value"],
+      "26": ["wisdom-value"],
+      "27": ["wisdom-value"],
+      "28": ["wisdom-cause", "wisdom-value"]
+    },
+    "29": {
+      "5": ["orderly-home"]
+    },
+    "31": {
+      "1": ["dating"],
+      "4": ["omniscient"],
+      "28": ["non-resistance"],
+      "29": ["non-resistance"]
+    },
+    "32": {
+      "21": ["flattery"],
+      "22": ["flattery"]
+    },
+    "33": {
+      "19": ["discipline"]
+    },
+    "34": {
+      "21": ["omniscient"],
+      "28": ["effective-prayer"],
+      "31": ["discipline"],
+      "32": ["discipline"]
+    },
+    "36": {
+      "26": ["immutability"],
+      "31": ["dietary-guidance"]
+    },
+    "38": {
+      "41": ["providence"]
+    },
+    "42": {
+      "2": ["omnipotent"]
+    }
+  }
+}

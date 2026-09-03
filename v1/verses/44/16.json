@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 44,
+  "chapter": 16,
+  "verses": {
+    "4": ["christian-offices"],
+    "14": ["baptism"],
+    "15": ["baptism"],
+    "31": ["baptism", "spiritual-rebirth"]
+  }
+}

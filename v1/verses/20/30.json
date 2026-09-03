@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 30,
+  "verses": {
+    "3": ["wisdom-fruit"],
+    "4": ["spirit-of-prophecy"],
+    "5": ["authority-of-the-bible"],
+    "6": ["authority-of-the-bible"]
+  }
+}

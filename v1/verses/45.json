@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "book": 45,
+  "chapters": {
+    "1": {
+      "3": ["jesus-christs-humanity"],
+      "4": ["jesus-christs-deity"],
+      "11": ["spiritual-gifts"],
+      "16": ["word-of-god"],
+      "20": ["omnipotent"],
+      "21": ["worldly-wisdom"],
+      "22": ["worldly-wisdom"],
+      "24": ["dating"],
+      "26": ["sodomy"]
+    },
+    "2": {
+      "4": ["grace"],
+      "6": ["gods-judgment"],
+      "12": ["gods-judgment"],
+      "16": ["gods-judgment", "omniscient"]
+    },
+    "3": {
+      "10": ["no-one-is-good"],
+      "11": ["no-one-is-good"],
+      "12": ["no-one-is-good"],
+      "20": ["not-under-the-law"],
+      "21": ["not-under-the-law"],
+      "23": ["no-one-is-good"],
+      "24": ["grace"],
+      "31": ["obey-gods-commandments"]
+    },
+    "4": {
+      "16": ["authority-of-the-bible", "grace", "not-under-the-law"]
+    },
+    "5": {
+      "1": ["saved-by-faith"],
+      "2": ["saved-by-faith"],
+      "6": ["spiritual-rebirth"],
+      "7": ["spiritual-rebirth"],
+      "8": ["biblical-love", "spiritual-rebirth"],
+      "9": ["spiritual-rebirth"],
+      "10": ["spiritual-rebirth"],
+      "12": ["no-one-is-good"],
+      "20": ["grace"],
+      "21": ["grace"]
+    },
+    "6": {
+      "1": ["grace"],
+      "2": ["grace"],
+      "3": ["baptism"],
+      "4": ["baptism"],
+      "13": ["temptation"],
+      "14": ["grace", "not-under-the-law"],
+      "15": ["obey-gods-commandments"],
+      "16": ["dating"]
+    },
+    "7": {
+      "1": ["adultery"],
+      "2": ["adultery", "marriage"],
+      "3": ["adultery"],
+      "6": ["not-under-the-law"]
+    },
+    "8": {
+      "3": ["jesus-christs-humanity", "not-under-the-law"],
+      "5": ["renewing-of-the-mind"],
+      "29": ["renewing-of-the-mind"],
+      "31": ["providence"]
+    },
+    "9": {
+      "5": ["jesus-christs-deity", "jesus-christs-humanity"],
+      "16": ["grace", "not-under-the-law"],
+      "23": ["grace"]
+    },
+    "10": {
+      "4": ["not-under-the-law"],
+      "5": ["longevity"],
+      "9": ["saved-by-faith", "spiritual-rebirth"],
+      "10": ["saved-by-faith"],
+      "11": ["saved-by-faith"],
+      "12": ["free-will", "saved-by-faith"],
+      "13": ["free-will", "saved-by-faith"],
+      "14": ["saved-by-faith"],
+      "21": ["free-will"]
+    },
+    "11": {
+      "5": ["grace"],
+      "6": ["grace"],
+      "29": ["spiritual-gifts"],
+      "33": ["renewing-of-the-mind", "wisdom-origin"]
+    },
+    "12": {
+      "2": ["renewing-of-the-mind"],
+      "3": ["spiritual-gifts"],
+      "6": ["spiritual-gifts"],
+      "9": ["biblical-love"],
+      "14": ["blessings-and-curses", "non-resistance"],
+      "17": ["non-resistance"],
+      "18": ["non-resistance"],
+      "19": ["non-resistance"],
+      "20": ["non-resistance"],
+      "21": ["non-resistance"]
+    },
+    "13": {
+      "1": ["obey-government-laws"],
+      "2": ["obey-government-laws"],
+      "3": ["obey-government-laws"],
+      "4": ["obey-government-laws"],
+      "5": ["obey-government-laws"],
+      "6": ["obey-government-laws"],
+      "7": ["obey-government-laws"],
+      "9": ["biblical-love"],
+      "10": ["biblical-love", "non-resistance"],
+      "13": ["wine"],
+      "14": ["wine"]
+    },
+    "14": {
+      "5": ["first-day"],
+      "6": ["first-day"],
+      "21": ["wine"]
+    },
+    "15": {
+      "4": ["word-of-god"]
+    },
+    "16": {
+      "4": ["biblical-love"],
+      "5": ["home-church"],
+      "16": ["ordinances"],
+      "19": ["education", "wisdom-fruit"]
+    }
+  }
+}

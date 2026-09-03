@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "book": 45,
+  "chapter": 6,
+  "verses": {
+    "1": ["grace"],
+    "2": ["grace"],
+    "3": ["baptism"],
+    "4": ["baptism"],
+    "13": ["temptation"],
+    "14": ["grace", "not-under-the-law"],
+    "15": ["obey-gods-commandments"],
+    "16": ["dating"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "book": 29,
+  "chapters": {
+    "1": {
+      "5": ["wine"]
+    },
+    "2": {
+      "12": ["repentance"],
+      "13": ["repentance"],
+      "14": ["repentance"],
+      "21": ["fear-not"],
+      "32": ["free-will"]
+    }
+  }
+}

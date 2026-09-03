@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "book": 50,
+  "chapters": {
+    "1": {
+      "1": ["christian-offices"],
+      "8": ["biblical-love"],
+      "9": ["biblical-love"]
+    },
+    "2": {
+      "5": ["renewing-of-the-mind"],
+      "6": ["jesus-christs-deity"],
+      "7": ["jesus-christs-humanity"],
+      "8": ["jesus-christs-humanity"],
+      "13": ["providence"]
+    },
+    "4": {
+      "1": ["biblical-love"],
+      "2": ["spiritual-judgment"],
+      "8": ["renewing-of-the-mind"],
+      "19": ["grace"]
+    }
+  }
+}

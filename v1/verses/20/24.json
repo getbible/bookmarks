@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 24,
+  "verses": {
+    "1": ["no-fellowship"],
+    "3": ["wisdom-fruit"],
+    "7": ["worldly-wisdom"],
+    "12": ["gods-judgment"],
+    "14": ["wisdom-value"],
+    "21": ["obey-government-laws"],
+    "24": ["flattery"],
+    "29": ["non-resistance"]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "book": 26,
+  "chapters": {
+    "1": {
+      "3": ["authority-of-the-bible"]
+    },
+    "11": {
+      "19": ["spiritual-rebirth"],
+      "20": ["spiritual-rebirth"]
+    },
+    "12": {
+      "25": ["authority-of-the-bible"]
+    },
+    "14": {
+      "6": ["repentance"]
+    },
+    "16": {
+      "8": ["christian-clothing"]
+    },
+    "18": {
+      "16": ["christian-clothing"],
+      "21": ["repentance"],
+      "22": ["repentance"],
+      "23": ["repentance"],
+      "30": ["gods-judgment"],
+      "31": ["free-will"],
+      "32": ["repentance"]
+    },
+    "20": {
+      "3": ["effective-prayer"],
+      "11": ["longevity"]
+    },
+    "23": {
+      "40": ["christian-clothing"],
+      "41": ["christian-clothing"],
+      "42": ["christian-clothing"],
+      "43": ["christian-clothing"],
+      "44": ["christian-clothing"]
+    },
+    "25": {
+      "11": ["gods-judgment"]
+    },
+    "28": {
+      "4": ["worldly-wisdom"],
+      "5": ["worldly-wisdom"],
+      "6": ["worldly-wisdom"],
+      "7": ["worldly-wisdom"],
+      "8": ["worldly-wisdom"],
+      "17": ["worldly-wisdom"]
+    },
+    "30": {
+      "14": ["gods-judgment"]
+    },
+    "33": {
+      "6": ["leadership"],
+      "11": ["repentance"],
+      "19": ["longevity"]
+    },
+    "34": {
+      "23": ["jesus-christs-humanity"],
+      "24": ["jesus-christs-humanity"]
+    },
+    "36": {
+      "23": ["spiritual-rebirth"],
+      "24": ["spiritual-rebirth"],
+      "25": ["spiritual-rebirth"],
+      "26": ["spiritual-rebirth"],
+      "27": ["spiritual-rebirth"]
+    },
+    "38": {
+      "22": ["gods-judgment"]
+    },
+    "39": {
+      "21": ["gods-judgment"]
+    }
+  }
+}

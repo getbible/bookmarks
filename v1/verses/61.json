@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "book": 61,
+  "chapters": {
+    "1": {
+      "11": ["immutability"],
+      "15": ["authority-of-the-bible"],
+      "16": ["authority-of-the-bible", "jesus-christs-deity"],
+      "17": ["authority-of-the-bible", "jesus-christs-deity"],
+      "18": ["authority-of-the-bible"],
+      "19": ["authority-of-the-bible"],
+      "20": ["authority-of-the-bible"],
+      "21": ["authority-of-the-bible"]
+    },
+    "2": {
+      "9": ["gods-judgment", "temptation"],
+      "14": ["adultery"]
+    },
+    "3": {
+      "2": ["authority-of-the-bible"],
+      "7": ["gods-judgment"],
+      "8": ["immutability"],
+      "9": ["free-will"],
+      "15": ["authority-of-the-bible"],
+      "16": ["authority-of-the-bible"],
+      "17": ["temptation"]
+    }
+  }
+}

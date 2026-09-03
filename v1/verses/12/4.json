@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "book": 12,
+  "chapter": 4,
+  "verses": {
+    "1": ["providence"],
+    "2": ["providence"],
+    "3": ["providence"],
+    "4": ["providence"],
+    "5": ["providence"],
+    "6": ["providence"],
+    "16": ["family-planning"],
+    "17": ["family-planning"]
+  }
+}

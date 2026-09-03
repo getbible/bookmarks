@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "book": 43,
+  "chapter": 1,
+  "verses": {
+    "1": ["jesus-christs-deity", "word-of-god"],
+    "2": ["jesus-christs-deity", "word-of-god"],
+    "3": ["jesus-christs-deity", "word-of-god"],
+    "4": ["word-of-god"],
+    "5": ["word-of-god"],
+    "12": ["spiritual-rebirth"],
+    "13": ["spiritual-rebirth"],
+    "14": ["jesus-christs-deity", "jesus-christs-humanity"],
+    "16": ["grace"],
+    "17": ["grace", "not-under-the-law"],
+    "25": ["baptism"],
+    "26": ["baptism"],
+    "27": ["baptism"]
+  }
+}

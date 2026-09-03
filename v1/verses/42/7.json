@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapter": 7,
+  "verses": {
+    "22": ["dietary-guidance"],
+    "29": ["baptism"],
+    "30": ["baptism"],
+    "33": ["dietary-guidance"],
+    "34": ["dietary-guidance"],
+    "47": ["biblical-love"],
+    "50": ["saved-by-faith"]
+  }
+}

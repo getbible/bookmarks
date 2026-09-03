@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "book": 24,
+  "chapter": 35,
+  "verses": {
+    "5": ["wine"],
+    "6": ["orderly-home", "wine"],
+    "7": ["orderly-home"],
+    "8": ["orderly-home"],
+    "9": ["orderly-home"],
+    "10": ["orderly-home"],
+    "15": ["repentance"],
+    "16": ["education"],
+    "17": ["education"],
+    "18": ["orderly-home", "wine"],
+    "19": ["wine"]
+  }
+}

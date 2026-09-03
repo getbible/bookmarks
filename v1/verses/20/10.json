@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 10,
+  "verses": {
+    "6": ["blessings-and-curses"],
+    "8": ["wisdom-fruit"],
+    "12": ["biblical-love"],
+    "13": ["discipline"],
+    "17": ["discipline"],
+    "22": ["blessings-and-curses"],
+    "27": ["longevity"]
+  }
+}

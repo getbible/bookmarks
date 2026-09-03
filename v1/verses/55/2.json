@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "book": 55,
+  "chapter": 2,
+  "verses": {
+    "1": ["christian-offices", "grace"],
+    "2": ["christian-offices"],
+    "3": ["christian-offices"],
+    "4": ["christian-offices"],
+    "5": ["christian-offices"],
+    "6": ["christian-offices"],
+    "7": ["christian-offices"],
+    "8": ["jesus-christs-humanity"],
+    "13": ["immutability"],
+    "15": ["leadership"],
+    "19": ["immutability"],
+    "22": ["dating", "no-fellowship"]
+  }
+}

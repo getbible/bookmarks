@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 45,
+  "chapter": 7,
+  "verses": {
+    "1": ["adultery"],
+    "2": ["adultery", "marriage"],
+    "3": ["adultery"],
+    "6": ["not-under-the-law"]
+  }
+}

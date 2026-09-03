@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "book": 40,
+  "chapter": 1,
+  "verses": {
+    "1": ["jesus-christs-humanity"],
+    "16": ["jesus-christs-humanity"],
+    "20": ["jesus-christs-deity"],
+    "21": ["jesus-christs-deity"],
+    "22": ["jesus-christs-deity", "spirit-of-prophecy"],
+    "23": ["jesus-christs-deity", "spirit-of-prophecy"]
+  }
+}

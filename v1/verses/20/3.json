@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 3,
+  "verses": {
+    "1": ["education", "longevity"],
+    "2": ["longevity"],
+    "7": ["wisdom-fruit"],
+    "11": ["discipline"],
+    "12": ["discipline"],
+    "13": ["wisdom-fruit", "wisdom-value"],
+    "21": ["conditional-security"],
+    "22": ["conditional-security"],
+    "23": ["conditional-security"],
+    "24": ["conditional-security"],
+    "33": ["blessings-and-curses"]
+  }
+}

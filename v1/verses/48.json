@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "book": 48,
+  "chapters": {
+    "1": {
+      "8": ["blessings-and-curses"],
+      "9": ["blessings-and-curses"]
+    },
+    "2": {
+      "16": ["saved-by-faith"],
+      "17": ["saved-by-faith"],
+      "18": ["saved-by-faith"],
+      "19": ["saved-by-faith"],
+      "20": ["biblical-love", "saved-by-faith"],
+      "21": ["grace", "saved-by-faith"]
+    },
+    "3": {
+      "1": ["saved-by-faith"],
+      "2": ["saved-by-faith"],
+      "3": ["saved-by-faith"],
+      "4": ["saved-by-faith"],
+      "5": ["saved-by-faith"],
+      "6": ["saved-by-faith"],
+      "7": ["saved-by-faith"],
+      "8": ["saved-by-faith"],
+      "9": ["saved-by-faith"],
+      "10": ["blessings-and-curses", "saved-by-faith"],
+      "11": ["saved-by-faith"],
+      "12": ["longevity", "saved-by-faith"],
+      "13": ["blessings-and-curses", "saved-by-faith"],
+      "14": ["saved-by-faith"],
+      "27": ["baptism"]
+    },
+    "4": {
+      "4": ["jesus-christs-humanity"]
+    },
+    "5": {
+      "4": ["grace"],
+      "5": ["saved-by-faith"],
+      "6": ["biblical-love"],
+      "13": ["biblical-love"],
+      "14": ["biblical-love"],
+      "15": ["biblical-love"],
+      "16": ["dating"],
+      "18": ["not-under-the-law"],
+      "19": ["adultery"],
+      "20": ["adultery"],
+      "21": ["adultery", "wine"],
+      "22": ["biblical-love"],
+      "23": ["biblical-love"],
+      "24": ["wine"]
+    },
+    "6": {
+      "1": ["temptation"],
+      "9": ["discipline"]
+    }
+  }
+}

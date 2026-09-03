@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "book": 60,
+  "chapters": {
+    "1": {
+      "8": ["biblical-love"],
+      "11": ["authority-of-the-bible"],
+      "12": ["authority-of-the-bible"],
+      "13": ["renewing-of-the-mind"],
+      "17": ["gods-judgment"],
+      "22": ["biblical-love"],
+      "23": ["spiritual-rebirth"],
+      "25": ["authority-of-the-bible", "word-of-god"]
+    },
+    "2": {
+      "2": ["renewing-of-the-mind"],
+      "13": ["obey-government-laws"],
+      "14": ["obey-government-laws"],
+      "15": ["obey-government-laws"],
+      "17": ["obey-government-laws"]
+    },
+    "3": {
+      "1": ["orderly-home"],
+      "2": ["orderly-home"],
+      "3": ["christian-clothing"],
+      "5": ["womans-role"],
+      "6": ["womans-role"],
+      "7": ["mans-role", "orderly-home"],
+      "9": ["non-resistance"],
+      "10": ["longevity"],
+      "11": ["longevity"],
+      "12": ["effective-prayer", "longevity"],
+      "20": ["baptism"],
+      "21": ["baptism", "ordinances"]
+    },
+    "4": {
+      "3": ["wine"],
+      "8": ["biblical-love"],
+      "10": ["grace"]
+    },
+    "5": {
+      "1": ["christian-offices"],
+      "5": ["grace"],
+      "14": ["ordinances"]
+    }
+  }
+}

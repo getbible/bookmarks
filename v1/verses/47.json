@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "book": 47,
+  "chapters": {
+    "1": {
+      "12": ["grace"]
+    },
+    "3": {
+      "18": ["renewing-of-the-mind"]
+    },
+    "4": {
+      "1": ["discipline"],
+      "4": ["prince-of-this-world"],
+      "16": ["discipline"],
+      "17": ["discipline"]
+    },
+    "5": {
+      "10": ["gods-judgment"],
+      "11": ["gods-judgment"],
+      "14": ["biblical-love"],
+      "15": ["biblical-love"],
+      "20": ["free-will"]
+    },
+    "6": {
+      "1": ["grace"],
+      "14": ["dating", "marriage", "no-fellowship"],
+      "17": ["no-fellowship"]
+    },
+    "8": {
+      "8": ["biblical-love"],
+      "9": ["grace"]
+    },
+    "10": {
+      "5": ["renewing-of-the-mind"]
+    },
+    "11": {
+      "14": ["prince-of-this-world"]
+    },
+    "12": {
+      "8": ["effective-prayer"],
+      "9": ["grace"],
+      "15": ["biblical-love"]
+    },
+    "13": {
+      "12": ["ordinances"]
+    }
+  }
+}

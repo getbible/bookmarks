@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 20,
+  "verses": {
+    "1": ["wine", "wisdom-fruit"],
+    "8": ["leadership"],
+    "19": ["flattery"],
+    "22": ["non-resistance"],
+    "26": ["leadership"],
+    "28": ["leadership"],
+    "30": ["discipline"]
+  }
+}
