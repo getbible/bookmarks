@@ -105,5 +105,6 @@ jobs:
             include $RUNNER_TEMP/nginx/conf.d/*.conf;
           }
           CONF
-          docker run --rm -v "$RUNNER_TEMP/nginx:$RUNNER_TEMP/nginx:ro" nginx:stable \
+          # nginx -t opens the configured log files for writing, so the mount stays writable.
+          docker run --rm -v "$RUNNER_TEMP/nginx:$RUNNER_TEMP/nginx" nginx:stable \
             nginx -t -c "$RUNNER_TEMP/nginx/nginx.conf"

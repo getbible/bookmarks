@@ -40,6 +40,18 @@ def git(cwd: Path, *arguments: str) -> str:
     ).stdout.strip()
 
 
+def quiet_git(repository: Path) -> None:
+    """Disable background maintenance so no detached git process outlives a test."""
+    for key, value in (
+        ("gc.auto", "0"),
+        ("gc.autoDetach", "false"),
+        ("maintenance.auto", "false"),
+        ("receive.autogc", "false"),
+        ("fetch.writeCommitGraph", "false"),
+    ):
+        git(repository, "config", key, value)
+
+
 class RepositoryFixture:
     """A bare origin plus a working clone seeded with the sample catalogue."""
 
@@ -48,7 +60,9 @@ class RepositoryFixture:
         self.origin = root / "origin.git"
         self.clone = root / "clone"
         git(root, "init", "--quiet", "--bare", "--initial-branch=main", str(self.origin))
+        quiet_git(self.origin)
         git(root, "clone", "--quiet", str(self.origin), str(self.clone))
+        quiet_git(self.clone)
         git(self.clone, "checkout", "--quiet", "-b", "main")
         catalog = catalog or sample_catalog()
         save_catalog(self.clone / "data", catalog)
@@ -64,12 +78,13 @@ class RepositoryFixture:
     def second_clone(self) -> Path:
         other = self.root / "other"
         git(self.root, "clone", "--quiet", str(self.origin), str(other))
+        quiet_git(other)
         return other
 
 
 class PublisherTests(unittest.TestCase):
     def setUp(self) -> None:
-        self.folder = tempfile.TemporaryDirectory()
+        self.folder = tempfile.TemporaryDirectory(ignore_cleanup_errors=True)
         self.fixture = RepositoryFixture(Path(self.folder.name))
 
     def tearDown(self) -> None:
