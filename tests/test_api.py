@@ -20,7 +20,7 @@ PREFIX = "/v1/manage"
 
 class ApiTestCase(AsyncHTTPTestCase):
     def setUp(self) -> None:
-        self.folder = tempfile.TemporaryDirectory()
+        self.folder = tempfile.TemporaryDirectory(ignore_cleanup_errors=True)
         root = Path(self.folder.name)
         self.fixture = RepositoryFixture(root)
         self.store = ContributorStore(root / "contributors.json")
