@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "book": 45,
+  "chapter": 10,
+  "verses": {
+    "4": ["not-under-the-law"],
+    "5": ["longevity"],
+    "9": ["saved-by-faith", "spiritual-rebirth"],
+    "10": ["saved-by-faith"],
+    "11": ["saved-by-faith"],
+    "12": ["free-will", "saved-by-faith"],
+    "13": ["free-will", "saved-by-faith"],
+    "14": ["saved-by-faith"],
+    "21": ["free-will"]
+  }
+}

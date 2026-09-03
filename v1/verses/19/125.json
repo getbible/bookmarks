@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "book": 19,
+  "chapter": 125,
+  "verses": {
+    "1": ["conditional-security"],
+    "2": ["conditional-security"],
+    "5": ["conditional-security"]
+  }
+}

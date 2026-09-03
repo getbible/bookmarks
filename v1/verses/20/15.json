@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 15,
+  "verses": {
+    "3": ["omnipresent"],
+    "5": ["discipline"],
+    "8": ["effective-prayer"],
+    "10": ["discipline"],
+    "11": ["omniscient"],
+    "29": ["effective-prayer"],
+    "31": ["discipline"],
+    "32": ["discipline"],
+    "33": ["discipline", "wisdom-origin"]
+  }
+}

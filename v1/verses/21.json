@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "book": 21,
+  "chapters": {
+    "2": {
+      "13": ["wisdom-value"],
+      "26": ["wisdom-origin"]
+    },
+    "5": {
+      "4": ["adultery"],
+      "5": ["adultery"],
+      "6": ["adultery"]
+    },
+    "7": {
+      "2": ["discipline"],
+      "19": ["wisdom-value"],
+      "23": ["worldly-wisdom"]
+    },
+    "8": {
+      "2": ["obey-government-laws"],
+      "11": ["gods-judgment"]
+    },
+    "9": {
+      "9": ["mans-role"],
+      "10": ["wisdom-origin"],
+      "11": ["wisdom-origin"],
+      "12": ["wisdom-origin"],
+      "13": ["wisdom-origin"],
+      "14": ["wisdom-origin"],
+      "15": ["wisdom-origin"],
+      "16": ["wisdom-origin"],
+      "17": ["wisdom-origin"],
+      "18": ["wisdom-origin"]
+    },
+    "10": {
+      "4": ["obey-government-laws"],
+      "17": ["wine"],
+      "20": ["blessings-and-curses", "obey-government-laws"]
+    },
+    "12": {
+      "12": ["education"],
+      "13": ["obey-gods-commandments"]
+    }
+  }
+}

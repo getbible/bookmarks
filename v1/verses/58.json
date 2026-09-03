@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "book": 58,
+  "chapters": {
+    "1": {
+      "1": ["authority-of-the-bible"],
+      "2": ["authority-of-the-bible"],
+      "3": ["omnipotent"],
+      "12": ["immutability"]
+    },
+    "2": {
+      "9": ["grace"],
+      "14": ["jesus-christs-humanity", "prince-of-this-world"],
+      "16": ["jesus-christs-humanity"],
+      "18": ["temptation"]
+    },
+    "3": {
+      "12": ["conditional-security"],
+      "13": ["spiritual-judgment"]
+    },
+    "4": {
+      "12": ["word-of-god"],
+      "13": ["omniscient"],
+      "14": ["jesus-christs-humanity"],
+      "15": ["temptation"]
+    },
+    "6": {
+      "2": ["baptism"],
+      "10": ["biblical-love"],
+      "17": ["immutability"]
+    },
+    "9": {
+      "27": ["gods-judgment"],
+      "28": ["gods-judgment"]
+    },
+    "10": {
+      "1": ["not-under-the-law"],
+      "25": ["spiritual-judgment"],
+      "26": ["conditional-security"],
+      "38": ["saved-by-faith"],
+      "39": ["saved-by-faith"]
+    },
+    "12": {
+      "5": ["discipline"],
+      "6": ["discipline"],
+      "7": ["discipline"],
+      "8": ["discipline"],
+      "9": ["discipline"],
+      "10": ["discipline"],
+      "11": ["discipline"]
+    },
+    "13": {
+      "1": ["biblical-love"],
+      "2": ["biblical-love"],
+      "3": ["biblical-love"],
+      "4": ["adultery", "dating", "marriage"],
+      "8": ["immutability"],
+      "17": ["christian-offices", "leadership"]
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "schema_version": 1,
+  "book": 46,
+  "chapters": {
+    "1": {
+      "7": ["spiritual-gifts"],
+      "20": ["worldly-wisdom"],
+      "24": ["wisdom-origin"],
+      "30": ["wisdom-origin"]
+    },
+    "2": {
+      "8": ["prince-of-this-world"],
+      "12": ["worldly-wisdom"],
+      "13": ["worldly-wisdom"],
+      "15": ["spiritual-judgment"]
+    },
+    "3": {
+      "10": ["grace"],
+      "18": ["worldly-wisdom"],
+      "19": ["worldly-wisdom"]
+    },
+    "5": {
+      "9": ["no-fellowship"],
+      "10": ["no-fellowship"],
+      "11": ["no-fellowship", "wine"],
+      "12": ["spiritual-judgment"],
+      "13": ["no-fellowship"]
+    },
+    "6": {
+      "1": ["spiritual-judgment"],
+      "2": ["spiritual-judgment"],
+      "3": ["spiritual-judgment"],
+      "4": ["spiritual-judgment"],
+      "5": ["spiritual-judgment"],
+      "9": ["adultery", "sodomy"],
+      "10": ["wine"],
+      "18": ["dating"],
+      "19": ["dating"]
+    },
+    "7": {
+      "1": ["dating"],
+      "2": ["dating", "marriage"],
+      "3": ["marriage"],
+      "8": ["marriage"],
+      "9": ["marriage"],
+      "10": ["adultery", "marriage", "womans-role"],
+      "11": ["adultery", "mans-role", "womans-role"],
+      "12": ["adultery", "marriage"],
+      "13": ["adultery"],
+      "14": ["adultery"],
+      "15": ["adultery"],
+      "16": ["adultery"],
+      "27": ["marriage"],
+      "28": ["marriage"],
+      "33": ["marriage"],
+      "34": ["dating"],
+      "36": ["marriage"],
+      "39": ["adultery", "marriage"]
+    },
+    "8": {
+      "8": ["dietary-guidance"],
+      "13": ["dietary-guidance"]
+    },
+    "10": {
+      "2": ["baptism"],
+      "13": ["temptation"],
+      "16": ["communion", "ordinances"],
+      "21": ["communion"],
+      "23": ["dietary-guidance"],
+      "24": ["dietary-guidance"],
+      "25": ["dietary-guidance"],
+      "26": ["dietary-guidance"],
+      "27": ["dietary-guidance"],
+      "28": ["dietary-guidance"],
+      "29": ["dietary-guidance"],
+      "30": ["dietary-guidance"],
+      "31": ["dietary-guidance"],
+      "32": ["dietary-guidance"],
+      "33": ["dietary-guidance"]
+    },
+    "11": {
+      "2": ["ordinances"],
+      "3": ["orderly-home", "ordinances"],
+      "4": ["ordinances"],
+      "5": ["ordinances"],
+      "6": ["ordinances"],
+      "7": ["ordinances"],
+      "8": ["ordinances"],
+      "9": ["ordinances"],
+      "10": ["ordinances"],
+      "11": ["ordinances"],
+      "12": ["ordinances"],
+      "13": ["ordinances"],
+      "14": ["ordinances"],
+      "15": ["ordinances"],
+      "16": ["ordinances"],
+      "23": ["communion", "ordinances"],
+      "24": ["communion", "ordinances"],
+      "25": ["communion", "ordinances"],
+      "26": ["communion", "ordinances"],
+      "27": ["communion"],
+      "28": ["communion"],
+      "29": ["communion"],
+      "30": ["communion"],
+      "31": ["communion", "spiritual-judgment"],
+      "32": ["communion"],
+      "33": ["communion"],
+      "34": ["communion"]
+    },
+    "12": {
+      "1": ["spiritual-gifts"],
+      "4": ["spiritual-gifts"],
+      "5": ["spiritual-gifts"],
+      "6": ["spiritual-gifts"],
+      "7": ["spiritual-gifts"],
+      "8": ["spiritual-gifts"],
+      "9": ["spiritual-gifts"],
+      "10": ["spiritual-gifts"],
+      "11": ["spiritual-gifts"],
+      "13": ["baptism"],
+      "28": ["christian-offices"],
+      "31": ["spiritual-gifts"]
+    },
+    "13": {
+      "1": ["biblical-love"],
+      "2": ["biblical-love"],
+      "3": ["biblical-love"],
+      "4": ["biblical-love"],
+      "5": ["biblical-love"],
+      "6": ["biblical-love"],
+      "7": ["biblical-love"],
+      "8": ["biblical-love"],
+      "9": ["biblical-love"],
+      "10": ["biblical-love"],
+      "11": ["biblical-love"],
+      "12": ["biblical-love"],
+      "13": ["biblical-love"]
+    },
+    "14": {
+      "29": ["christian-offices", "leadership"],
+      "34": ["womans-role"],
+      "35": ["mans-role", "womans-role"],
+      "37": ["authority-of-the-bible"]
+    },
+    "15": {
+      "1": ["authority-of-the-bible"],
+      "2": ["authority-of-the-bible"],
+      "3": ["authority-of-the-bible"],
+      "4": ["authority-of-the-bible"],
+      "5": ["authority-of-the-bible"],
+      "6": ["authority-of-the-bible"],
+      "7": ["authority-of-the-bible"],
+      "8": ["authority-of-the-bible"],
+      "10": ["grace"],
+      "33": ["no-fellowship"],
+      "56": ["not-under-the-law"],
+      "57": ["not-under-the-law"]
+    },
+    "16": {
+      "2": ["first-day"],
+      "15": ["orderly-home"],
+      "19": ["home-church"],
+      "20": ["ordinances"]
+    }
+  }
+}

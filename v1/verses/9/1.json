@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "book": 9,
+  "chapter": 1,
+  "verses": {
+    "5": ["family-planning"],
+    "14": ["wine"],
+    "15": ["wine"],
+    "19": ["family-planning"],
+    "20": ["family-planning"]
+  }
+}

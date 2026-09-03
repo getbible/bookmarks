@@ -1,0 +1,495 @@
+{
+  "schema_version": 1,
+  "catalog_version": 1,
+  "checksum": "2a8d4f5e06efb4006e8f0b52b790ef5861dc9152f746678d77e3255b7b3f42a3",
+  "topics": [
+    {
+      "id": "adultery",
+      "name": "Adultery",
+      "color": "#f9a8b8",
+      "aliases": [],
+      "default": true,
+      "verses": 78
+    },
+    {
+      "id": "authority-of-the-bible",
+      "name": "Authority of the Bible",
+      "color": "#93c5fd",
+      "aliases": [],
+      "default": true,
+      "verses": 59
+    },
+    {
+      "id": "baptism",
+      "name": "Baptism",
+      "color": "#7dd3fc",
+      "aliases": [],
+      "default": true,
+      "verses": 45
+    },
+    {
+      "id": "biblical-love",
+      "name": "Biblical Love",
+      "color": "#a16207",
+      "aliases": [],
+      "default": true,
+      "verses": 124
+    },
+    {
+      "id": "blessings-and-curses",
+      "name": "Blessings and Curses",
+      "color": "#fde68a",
+      "aliases": ["Blessings & Curses"],
+      "default": true,
+      "verses": 24
+    },
+    {
+      "id": "christian-clothing",
+      "name": "Christian Clothing",
+      "color": "#d8b4fe",
+      "aliases": [],
+      "default": true,
+      "verses": 18
+    },
+    {
+      "id": "christian-offices",
+      "name": "Christian Offices",
+      "color": "#a5b4fc",
+      "aliases": [],
+      "default": true,
+      "verses": 41
+    },
+    {
+      "id": "communion",
+      "name": "Communion",
+      "color": "#fca5a5",
+      "aliases": [],
+      "default": true,
+      "verses": 35
+    },
+    {
+      "id": "conditional-security",
+      "name": "Conditional Security",
+      "color": "#fdba74",
+      "aliases": [],
+      "default": true,
+      "verses": 38
+    },
+    {
+      "id": "dating",
+      "name": "Dating",
+      "color": "#f0abfc",
+      "aliases": [],
+      "default": true,
+      "verses": 53
+    },
+    {
+      "id": "dietary-guidance",
+      "name": "Dietary Guidance",
+      "color": "#bef264",
+      "aliases": [],
+      "default": true,
+      "verses": 48
+    },
+    {
+      "id": "discipline",
+      "name": "Discipline",
+      "color": "#fcd34d",
+      "aliases": [],
+      "default": true,
+      "verses": 78
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "color": "#67e8f9",
+      "aliases": [],
+      "default": true,
+      "verses": 43
+    },
+    {
+      "id": "effective-prayer",
+      "name": "Effective Prayer",
+      "color": "#c4b5fd",
+      "aliases": [],
+      "default": true,
+      "verses": 36
+    },
+    {
+      "id": "family-planning",
+      "name": "Family Planning",
+      "color": "#fda4af",
+      "aliases": [],
+      "default": true,
+      "verses": 39
+    },
+    {
+      "id": "fear-not",
+      "name": "Fear Not",
+      "color": "#fef08a",
+      "aliases": [],
+      "default": true,
+      "verses": 35
+    },
+    {
+      "id": "first-day",
+      "name": "First Day",
+      "color": "#fed7aa",
+      "aliases": [],
+      "default": true,
+      "verses": 13
+    },
+    {
+      "id": "flattery",
+      "name": "Flattery",
+      "color": "#fecdd3",
+      "aliases": [],
+      "default": true,
+      "verses": 19
+    },
+    {
+      "id": "free-will",
+      "name": "Free Will",
+      "color": "#99f6e4",
+      "aliases": [],
+      "default": true,
+      "verses": 24
+    },
+    {
+      "id": "gods-judgment",
+      "name": "God's Judgment",
+      "color": "#fb7185",
+      "aliases": ["God's Judgement"],
+      "default": true,
+      "verses": 60
+    },
+    {
+      "id": "grace",
+      "name": "Grace",
+      "color": "#bbf7d0",
+      "aliases": [],
+      "default": true,
+      "verses": 52
+    },
+    {
+      "id": "home-church",
+      "name": "Home Church",
+      "color": "#86efac",
+      "aliases": [],
+      "default": true,
+      "verses": 13
+    },
+    {
+      "id": "immutability",
+      "name": "Immutability",
+      "color": "#bfdbfe",
+      "aliases": [],
+      "default": true,
+      "verses": 45
+    },
+    {
+      "id": "jesus-christs-deity",
+      "name": "Jesus Christ's Deity",
+      "color": "#c7d2fe",
+      "aliases": [],
+      "default": true,
+      "verses": 62
+    },
+    {
+      "id": "jesus-christs-humanity",
+      "name": "Jesus Christ's Humanity",
+      "color": "#fecaca",
+      "aliases": [],
+      "default": true,
+      "verses": 30
+    },
+    {
+      "id": "leadership",
+      "name": "Leadership",
+      "color": "#a7f3d0",
+      "aliases": [],
+      "default": true,
+      "verses": 23
+    },
+    {
+      "id": "longevity",
+      "name": "Longevity",
+      "color": "#d9f99d",
+      "aliases": [],
+      "default": true,
+      "verses": 47
+    },
+    {
+      "id": "mans-role",
+      "name": "Man's Role",
+      "color": "#bae6fd",
+      "aliases": [],
+      "default": true,
+      "verses": 38
+    },
+    {
+      "id": "marriage",
+      "name": "Marriage",
+      "color": "#f5b7d2",
+      "aliases": [],
+      "default": true,
+      "verses": 38
+    },
+    {
+      "id": "musics-influence",
+      "name": "Music's Influence",
+      "color": "#e9d5ff",
+      "aliases": [],
+      "default": true,
+      "verses": 17
+    },
+    {
+      "id": "no-fellowship",
+      "name": "No Fellowship",
+      "color": "#fdc4a8",
+      "aliases": [],
+      "default": true,
+      "verses": 48
+    },
+    {
+      "id": "no-one-is-good",
+      "name": "No One is Good",
+      "color": "#fda4a4",
+      "aliases": [],
+      "default": true,
+      "verses": 18
+    },
+    {
+      "id": "non-resistance",
+      "name": "Non-Resistance",
+      "color": "#a7f3e8",
+      "aliases": ["Nonresistance"],
+      "default": true,
+      "verses": 32
+    },
+    {
+      "id": "not-under-the-law",
+      "name": "Not Under the Law",
+      "color": "#ddd6fe",
+      "aliases": [],
+      "default": true,
+      "verses": 14
+    },
+    {
+      "id": "obey-gods-commandments",
+      "name": "Obey God's Commandments",
+      "color": "#fde047",
+      "aliases": [],
+      "default": true,
+      "verses": 35
+    },
+    {
+      "id": "obey-government-laws",
+      "name": "Obey Government Laws",
+      "color": "#cbd5e1",
+      "aliases": [],
+      "default": true,
+      "verses": 26
+    },
+    {
+      "id": "omnipotent",
+      "name": "Omnipotent",
+      "color": "#818cf8",
+      "aliases": ["Omnipotence"],
+      "default": true,
+      "verses": 21
+    },
+    {
+      "id": "omnipresent",
+      "name": "Omnipresent",
+      "color": "#60a5fa",
+      "aliases": ["Omnipresence"],
+      "default": true,
+      "verses": 16
+    },
+    {
+      "id": "omniscient",
+      "name": "Omniscient",
+      "color": "#a78bfa",
+      "aliases": ["Omniscience"],
+      "default": true,
+      "verses": 20
+    },
+    {
+      "id": "orderly-home",
+      "name": "Orderly Home",
+      "color": "#b7e4c7",
+      "aliases": [],
+      "default": true,
+      "verses": 26
+    },
+    {
+      "id": "ordinances",
+      "name": "Ordinances",
+      "color": "#67d6e8",
+      "aliases": ["Ordinance"],
+      "default": true,
+      "verses": 54
+    },
+    {
+      "id": "prince-of-this-world",
+      "name": "Prince of this World",
+      "color": "#c4a7a7",
+      "aliases": [],
+      "default": true,
+      "verses": 30
+    },
+    {
+      "id": "providence",
+      "name": "Providence",
+      "color": "#8dd3c7",
+      "aliases": [],
+      "default": true,
+      "verses": 29
+    },
+    {
+      "id": "renewing-of-the-mind",
+      "name": "Renewing of the Mind",
+      "color": "#a5f3fc",
+      "aliases": [],
+      "default": true,
+      "verses": 19
+    },
+    {
+      "id": "repentance",
+      "name": "Repentance",
+      "color": "#fbbf8a",
+      "aliases": [],
+      "default": true,
+      "verses": 27
+    },
+    {
+      "id": "saved-by-faith",
+      "name": "Saved by Faith",
+      "color": "#86efac",
+      "aliases": [],
+      "default": true,
+      "verses": 35
+    },
+    {
+      "id": "sodomy",
+      "name": "Sodomy",
+      "color": "#f59e9e",
+      "aliases": [],
+      "default": true,
+      "verses": 9
+    },
+    {
+      "id": "spirit-of-prophecy",
+      "name": "Spirit of Prophecy",
+      "color": "#d8b4fe",
+      "aliases": [],
+      "default": true,
+      "verses": 33
+    },
+    {
+      "id": "spiritual-gifts",
+      "name": "Spiritual Gifts",
+      "color": "#c084fc",
+      "aliases": [],
+      "default": true,
+      "verses": 19
+    },
+    {
+      "id": "spiritual-judgment",
+      "name": "Spiritual Judgment",
+      "color": "#f0c36e",
+      "aliases": ["Spiritual Judgement"],
+      "default": true,
+      "verses": 37
+    },
+    {
+      "id": "spiritual-rebirth",
+      "name": "Spiritual Rebirth",
+      "color": "#6ee7b7",
+      "aliases": [],
+      "default": true,
+      "verses": 44
+    },
+    {
+      "id": "temptation",
+      "name": "Temptation",
+      "color": "#fca5a5",
+      "aliases": [],
+      "default": true,
+      "verses": 20
+    },
+    {
+      "id": "what-is-life",
+      "name": "What is Life",
+      "color": "#5eead4",
+      "aliases": [],
+      "default": true,
+      "verses": 20
+    },
+    {
+      "id": "wine",
+      "name": "Wine",
+      "color": "#e8a0bf",
+      "aliases": [],
+      "default": true,
+      "verses": 56
+    },
+    {
+      "id": "wisdom-cause",
+      "name": "Wisdom Cause",
+      "color": "#fef08a",
+      "aliases": [],
+      "default": true,
+      "verses": 9
+    },
+    {
+      "id": "wisdom-fruit",
+      "name": "Wisdom Fruit",
+      "color": "#bef264",
+      "aliases": [],
+      "default": true,
+      "verses": 21
+    },
+    {
+      "id": "wisdom-origin",
+      "name": "Wisdom Origin",
+      "color": "#fcd34d",
+      "aliases": [],
+      "default": true,
+      "verses": 39
+    },
+    {
+      "id": "wisdom-value",
+      "name": "Wisdom Value",
+      "color": "#fbbf24",
+      "aliases": [],
+      "default": true,
+      "verses": 27
+    },
+    {
+      "id": "womans-role",
+      "name": "Woman's Role",
+      "color": "#fbcfe8",
+      "aliases": [],
+      "default": true,
+      "verses": 49
+    },
+    {
+      "id": "word-of-god",
+      "name": "Word of God",
+      "color": "#7dd3fc",
+      "aliases": [],
+      "default": true,
+      "verses": 25
+    },
+    {
+      "id": "worldly-wisdom",
+      "name": "Worldly Wisdom",
+      "color": "#d6d3d1",
+      "aliases": [],
+      "default": true,
+      "verses": 22
+    }
+  ]
+}

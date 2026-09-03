@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "book": 30,
+  "chapters": {
+    "5": {
+      "22": ["musics-influence"],
+      "23": ["musics-influence"],
+      "24": ["musics-influence"]
+    },
+    "6": {
+      "3": ["musics-influence"],
+      "4": ["musics-influence"],
+      "5": ["musics-influence"],
+      "6": ["musics-influence"]
+    }
+  }
+}

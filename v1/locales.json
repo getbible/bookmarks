@@ -1,0 +1,352 @@
+{
+  "schema_version": 1,
+  "catalog_version": 1,
+  "checksum": "2a8d4f5e06efb4006e8f0b52b790ef5861dc9152f746678d77e3255b7b3f42a3",
+  "locales": [
+    {
+      "code": "af",
+      "name": "Afrikaans",
+      "topics": 61
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "topics": 61
+    },
+    {
+      "code": "br",
+      "name": "Breton",
+      "topics": 61
+    },
+    {
+      "code": "ch",
+      "name": "Chamorro",
+      "topics": 61
+    },
+    {
+      "code": "chr",
+      "name": "Cherokee",
+      "topics": 61
+    },
+    {
+      "code": "cop",
+      "name": "Coptic",
+      "topics": 61
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "topics": 61
+    },
+    {
+      "code": "cu",
+      "name": "Church Slavonic",
+      "topics": 61
+    },
+    {
+      "code": "da",
+      "name": "Danish",
+      "topics": 61
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "topics": 61
+    },
+    {
+      "code": "el",
+      "name": "Greek",
+      "topics": 61
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "topics": 61
+    },
+    {
+      "code": "enm",
+      "name": "Middle English",
+      "topics": 61
+    },
+    {
+      "code": "eo",
+      "name": "Esperanto",
+      "topics": 61
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "topics": 61
+    },
+    {
+      "code": "et",
+      "name": "Estonian",
+      "topics": 61
+    },
+    {
+      "code": "eu",
+      "name": "Basque",
+      "topics": 61
+    },
+    {
+      "code": "fi",
+      "name": "Finnish",
+      "topics": 61
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "topics": 61
+    },
+    {
+      "code": "gd",
+      "name": "Scottish Gaelic",
+      "topics": 61
+    },
+    {
+      "code": "got",
+      "name": "Gothic",
+      "topics": 61
+    },
+    {
+      "code": "grc",
+      "name": "Ancient Greek",
+      "topics": 61
+    },
+    {
+      "code": "gv",
+      "name": "Manx",
+      "topics": 61
+    },
+    {
+      "code": "hbo",
+      "name": "Ancient Hebrew",
+      "topics": 61
+    },
+    {
+      "code": "he",
+      "name": "Hebrew",
+      "topics": 61
+    },
+    {
+      "code": "hr",
+      "name": "Croatian",
+      "topics": 61
+    },
+    {
+      "code": "hu",
+      "name": "Hungarian",
+      "topics": 61
+    },
+    {
+      "code": "hy",
+      "name": "Armenian",
+      "topics": 61
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "topics": 61
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "topics": 61
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "topics": 61
+    },
+    {
+      "code": "la",
+      "name": "Latin",
+      "topics": 61
+    },
+    {
+      "code": "lt",
+      "name": "Lithuanian",
+      "topics": 61
+    },
+    {
+      "code": "lv",
+      "name": "Latvian",
+      "topics": 61
+    },
+    {
+      "code": "mg",
+      "name": "Malagasy",
+      "topics": 61
+    },
+    {
+      "code": "mi",
+      "name": "Maori",
+      "topics": 61
+    },
+    {
+      "code": "mlf",
+      "name": null,
+      "topics": 61
+    },
+    {
+      "code": "mn",
+      "name": "Mongolian",
+      "topics": 61
+    },
+    {
+      "code": "my",
+      "name": "Burmese",
+      "topics": 61
+    },
+    {
+      "code": "nb",
+      "name": "Norwegian Bokmal",
+      "topics": 61
+    },
+    {
+      "code": "nd",
+      "name": "Northern Ndebele",
+      "topics": 61
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "topics": 61
+    },
+    {
+      "code": "nn",
+      "name": "Norwegian Nynorsk",
+      "topics": 61
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "topics": 61
+    },
+    {
+      "code": "pon",
+      "name": "Pohnpeian",
+      "topics": 61
+    },
+    {
+      "code": "pot",
+      "name": "Potawatomi",
+      "topics": 61
+    },
+    {
+      "code": "ppk",
+      "name": "Uma",
+      "topics": 61
+    },
+    {
+      "code": "prs",
+      "name": "Dari",
+      "topics": 61
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "topics": 61
+    },
+    {
+      "code": "rmq",
+      "name": "Calo",
+      "topics": 61
+    },
+    {
+      "code": "ro",
+      "name": "Romanian",
+      "topics": 61
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "topics": 61
+    },
+    {
+      "code": "sn",
+      "name": "Shona",
+      "topics": 61
+    },
+    {
+      "code": "sq",
+      "name": "Albanian",
+      "topics": 61
+    },
+    {
+      "code": "sr",
+      "name": "Serbian",
+      "topics": 61
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "topics": 61
+    },
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "topics": 61
+    },
+    {
+      "code": "syr",
+      "name": "Syriac",
+      "topics": 61
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "topics": 61
+    },
+    {
+      "code": "tl",
+      "name": "Tagalog",
+      "topics": 61
+    },
+    {
+      "code": "tlh",
+      "name": "Klingon",
+      "topics": 61
+    },
+    {
+      "code": "tpi",
+      "name": "Tok Pisin",
+      "topics": 61
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "topics": 61
+    },
+    {
+      "code": "tsg",
+      "name": "Tausug",
+      "topics": 61
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "topics": 61
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese",
+      "topics": 61
+    },
+    {
+      "code": "zh",
+      "name": "Chinese",
+      "topics": 61
+    },
+    {
+      "code": "zh-hans",
+      "name": "Chinese (Simplified)",
+      "topics": 61
+    },
+    {
+      "code": "zh-hant",
+      "name": "Chinese (Traditional)",
+      "topics": 61
+    }
+  ]
+}

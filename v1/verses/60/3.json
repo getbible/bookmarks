@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "book": 60,
+  "chapter": 3,
+  "verses": {
+    "1": ["orderly-home"],
+    "2": ["orderly-home"],
+    "3": ["christian-clothing"],
+    "5": ["womans-role"],
+    "6": ["womans-role"],
+    "7": ["mans-role", "orderly-home"],
+    "9": ["non-resistance"],
+    "10": ["longevity"],
+    "11": ["longevity"],
+    "12": ["effective-prayer", "longevity"],
+    "20": ["baptism"],
+    "21": ["baptism", "ordinances"]
+  }
+}

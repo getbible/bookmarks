@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "book": 5,
+  "chapter": 6,
+  "verses": {
+    "5": ["biblical-love"],
+    "7": ["education", "orderly-home"],
+    "8": ["orderly-home"],
+    "9": ["education"],
+    "17": ["obey-gods-commandments"],
+    "20": ["education"],
+    "21": ["education"]
+  }
+}

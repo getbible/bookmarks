@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "book": 57,
+  "chapters": {
+    "1": {
+      "2": ["home-church"],
+      "5": ["biblical-love"]
+    }
+  }
+}

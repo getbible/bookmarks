@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "book": 54,
+  "chapters": {
+    "1": {
+      "12": ["grace"],
+      "13": ["grace"],
+      "14": ["grace"],
+      "17": ["immutability"],
+      "19": ["conditional-security"]
+    },
+    "2": {
+      "1": ["obey-government-laws"],
+      "2": ["obey-government-laws"],
+      "4": ["free-will"],
+      "5": ["jesus-christs-humanity"],
+      "9": ["christian-clothing"],
+      "11": ["womans-role"],
+      "12": ["womans-role"],
+      "13": ["womans-role"],
+      "14": ["womans-role"],
+      "15": ["womans-role"]
+    },
+    "3": {
+      "1": ["christian-offices"],
+      "2": ["christian-offices", "mans-role"],
+      "3": ["christian-offices", "mans-role", "wine"],
+      "4": ["christian-offices", "education", "mans-role", "orderly-home"],
+      "5": ["christian-offices", "mans-role"],
+      "6": ["leadership", "mans-role"],
+      "7": ["christian-offices", "mans-role"],
+      "8": ["christian-offices", "mans-role", "wine"],
+      "9": ["christian-offices", "mans-role"],
+      "10": ["christian-offices", "mans-role"],
+      "11": ["mans-role", "womans-role"],
+      "12": ["education", "mans-role", "marriage"],
+      "13": ["mans-role"],
+      "16": ["jesus-christs-humanity"]
+    },
+    "4": {
+      "1": ["dietary-guidance"],
+      "2": ["dietary-guidance"],
+      "3": ["dietary-guidance"],
+      "4": ["dietary-guidance"],
+      "5": ["dietary-guidance"],
+      "6": ["dietary-guidance"],
+      "8": ["longevity"],
+      "14": ["spiritual-gifts"]
+    },
+    "5": {
+      "4": ["marriage"],
+      "10": ["ordinances"],
+      "14": ["family-planning"],
+      "17": ["christian-offices", "leadership"],
+      "18": ["christian-offices", "leadership"],
+      "19": ["christian-offices", "leadership"],
+      "22": ["no-fellowship"],
+      "23": ["wine"]
+    },
+    "6": {
+      "5": ["no-fellowship"],
+      "9": ["temptation"],
+      "10": ["conditional-security"],
+      "11": ["biblical-love"],
+      "17": ["dietary-guidance"],
+      "19": ["conditional-security"],
+      "20": ["education"],
+      "21": ["conditional-security"]
+    }
+  }
+}

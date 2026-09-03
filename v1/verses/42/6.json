@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapter": 6,
+  "verses": {
+    "27": ["biblical-love", "non-resistance"],
+    "28": ["blessings-and-curses", "non-resistance"],
+    "29": ["non-resistance"],
+    "40": ["education"]
+  }
+}

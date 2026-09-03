@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "book": 2,
+  "chapter": 23,
+  "verses": {
+    "2": ["no-fellowship"],
+    "4": ["non-resistance"]
+  }
+}

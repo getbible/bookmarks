@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapter": 17,
+  "verses": {
+    "33": ["what-is-life"]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "book": 46,
+  "chapter": 7,
+  "verses": {
+    "1": ["dating"],
+    "2": ["dating", "marriage"],
+    "3": ["marriage"],
+    "8": ["marriage"],
+    "9": ["marriage"],
+    "10": ["adultery", "marriage", "womans-role"],
+    "11": ["adultery", "mans-role", "womans-role"],
+    "12": ["adultery", "marriage"],
+    "13": ["adultery"],
+    "14": ["adultery"],
+    "15": ["adultery"],
+    "16": ["adultery"],
+    "27": ["marriage"],
+    "28": ["marriage"],
+    "33": ["marriage"],
+    "34": ["dating"],
+    "36": ["marriage"],
+    "39": ["adultery", "marriage"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 6,
+  "verses": {
+    "20": ["education"],
+    "21": ["education"],
+    "22": ["education"],
+    "23": ["discipline", "education"],
+    "24": ["adultery", "flattery"],
+    "25": ["adultery"],
+    "26": ["adultery"],
+    "27": ["adultery"],
+    "28": ["adultery"],
+    "29": ["adultery"],
+    "30": ["adultery"],
+    "31": ["adultery"],
+    "32": ["adultery"]
+  }
+}

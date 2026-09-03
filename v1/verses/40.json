@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "book": 40,
+  "chapters": {
+    "1": {
+      "1": ["jesus-christs-humanity"],
+      "16": ["jesus-christs-humanity"],
+      "20": ["jesus-christs-deity"],
+      "21": ["jesus-christs-deity"],
+      "22": ["jesus-christs-deity", "spirit-of-prophecy"],
+      "23": ["jesus-christs-deity", "spirit-of-prophecy"]
+    },
+    "2": {
+      "11": ["jesus-christs-deity"],
+      "15": ["spirit-of-prophecy"]
+    },
+    "3": {
+      "6": ["baptism"],
+      "11": ["baptism"],
+      "13": ["baptism"],
+      "17": ["jesus-christs-deity"]
+    },
+    "4": {
+      "8": ["prince-of-this-world"],
+      "9": ["prince-of-this-world"],
+      "10": ["prince-of-this-world"],
+      "17": ["repentance"]
+    },
+    "5": {
+      "17": ["authority-of-the-bible"],
+      "18": ["authority-of-the-bible"],
+      "27": ["adultery"],
+      "28": ["adultery", "dating"],
+      "31": ["adultery"],
+      "32": ["adultery"],
+      "39": ["non-resistance"],
+      "40": ["non-resistance"],
+      "41": ["non-resistance"],
+      "42": ["non-resistance"],
+      "43": ["biblical-love", "non-resistance"],
+      "44": ["biblical-love", "non-resistance"],
+      "45": ["providence"]
+    },
+    "6": {
+      "25": ["dietary-guidance"],
+      "26": ["dietary-guidance", "providence"]
+    },
+    "7": {
+      "1": ["spiritual-judgment"],
+      "2": ["spiritual-judgment"],
+      "3": ["spiritual-judgment"],
+      "4": ["spiritual-judgment"],
+      "5": ["spiritual-judgment"],
+      "24": ["conditional-security", "wisdom-origin"],
+      "25": ["conditional-security", "wisdom-origin"],
+      "26": ["wisdom-origin"],
+      "27": ["wisdom-origin"]
+    },
+    "10": {
+      "22": ["conditional-security"],
+      "28": ["fear-not"],
+      "29": ["providence"],
+      "37": ["biblical-love"]
+    },
+    "11": {
+      "20": ["gods-judgment"],
+      "21": ["gods-judgment"],
+      "22": ["gods-judgment"],
+      "28": ["free-will"]
+    },
+    "15": {
+      "3": ["obey-gods-commandments"],
+      "11": ["dietary-guidance"],
+      "19": ["adultery"]
+    },
+    "16": {
+      "16": ["jesus-christs-deity"],
+      "27": ["gods-judgment"]
+    },
+    "17": {
+      "2": ["jesus-christs-deity"],
+      "5": ["jesus-christs-deity"],
+      "27": ["obey-government-laws"]
+    },
+    "18": {
+      "20": ["omnipresent"]
+    },
+    "19": {
+      "3": ["adultery"],
+      "4": ["adultery"],
+      "5": ["adultery", "dating"],
+      "6": ["adultery", "dating"],
+      "7": ["adultery"],
+      "8": ["adultery"],
+      "9": ["adultery"],
+      "10": ["adultery", "marriage"],
+      "11": ["marriage"],
+      "14": ["family-planning"],
+      "16": ["no-one-is-good"],
+      "17": ["no-one-is-good", "obey-gods-commandments"],
+      "19": ["biblical-love"],
+      "26": ["omnipotent"]
+    },
+    "20": {
+      "16": ["repentance"]
+    },
+    "21": {
+      "22": ["effective-prayer"]
+    },
+    "22": {
+      "9": ["free-will"],
+      "21": ["obey-government-laws"],
+      "37": ["biblical-love", "non-resistance"],
+      "38": ["biblical-love", "non-resistance"],
+      "39": ["biblical-love", "non-resistance"],
+      "40": ["biblical-love", "non-resistance"]
+    },
+    "24": {
+      "35": ["authority-of-the-bible", "word-of-god"],
+      "48": ["wine"],
+      "49": ["wine"]
+    },
+    "25": {
+      "31": ["gods-judgment"],
+      "32": ["gods-judgment"],
+      "33": ["gods-judgment"]
+    },
+    "26": {
+      "26": ["communion", "ordinances"],
+      "27": ["communion"],
+      "28": ["communion"],
+      "29": ["communion"],
+      "41": ["temptation"]
+    },
+    "28": {
+      "5": ["fear-not"],
+      "19": ["baptism", "biblical-love", "ordinances"]
+    }
+  }
+}

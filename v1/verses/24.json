@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "book": 24,
+  "chapters": {
+    "4": {
+      "22": ["worldly-wisdom"],
+      "28": ["immutability"]
+    },
+    "7": {
+      "16": ["effective-prayer"],
+      "23": ["obey-gods-commandments"]
+    },
+    "8": {
+      "9": ["worldly-wisdom"]
+    },
+    "9": {
+      "23": ["worldly-wisdom"]
+    },
+    "10": {
+      "24": ["discipline"]
+    },
+    "11": {
+      "14": ["effective-prayer"]
+    },
+    "17": {
+      "10": ["gods-judgment"]
+    },
+    "18": {
+      "11": ["repentance"]
+    },
+    "23": {
+      "5": ["jesus-christs-humanity"],
+      "6": ["jesus-christs-humanity"],
+      "24": ["omnipresent"]
+    },
+    "29": {
+      "6": ["marriage"]
+    },
+    "31": {
+      "33": ["spiritual-rebirth"],
+      "34": ["spiritual-rebirth"]
+    },
+    "32": {
+      "17": ["omnipotent"],
+      "19": ["gods-judgment", "omnipresent"]
+    },
+    "35": {
+      "5": ["wine"],
+      "6": ["orderly-home", "wine"],
+      "7": ["orderly-home"],
+      "8": ["orderly-home"],
+      "9": ["orderly-home"],
+      "10": ["orderly-home"],
+      "15": ["repentance"],
+      "16": ["education"],
+      "17": ["education"],
+      "18": ["orderly-home", "wine"],
+      "19": ["wine"]
+    },
+    "36": {
+      "1": ["authority-of-the-bible"],
+      "2": ["authority-of-the-bible"]
+    },
+    "46": {
+      "27": ["fear-not"]
+    }
+  }
+}

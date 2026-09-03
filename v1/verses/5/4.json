@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "book": 5,
+  "chapter": 4,
+  "verses": {
+    "2": ["authority-of-the-bible"],
+    "5": ["wisdom-cause"],
+    "6": ["wisdom-cause"],
+    "39": ["omnipresent"],
+    "40": ["obey-gods-commandments"]
+  }
+}

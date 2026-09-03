@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "book": 9,
+  "chapters": {
+    "1": {
+      "5": ["family-planning"],
+      "14": ["wine"],
+      "15": ["wine"],
+      "19": ["family-planning"],
+      "20": ["family-planning"]
+    },
+    "2": {
+      "21": ["family-planning"]
+    },
+    "3": {
+      "13": ["discipline"]
+    },
+    "7": {
+      "10": ["providence"]
+    },
+    "10": {
+      "1": ["ordinances"]
+    },
+    "15": {
+      "22": ["obey-gods-commandments"]
+    },
+    "16": {
+      "23": ["musics-influence"]
+    },
+    "18": {
+      "3": ["biblical-love"]
+    },
+    "20": {
+      "41": ["ordinances"]
+    },
+    "24": {
+      "6": ["obey-government-laws"]
+    },
+    "28": {
+      "6": ["effective-prayer"]
+    }
+  }
+}

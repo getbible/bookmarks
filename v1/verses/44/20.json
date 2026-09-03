@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 44,
+  "chapter": 20,
+  "verses": {
+    "7": ["communion", "first-day", "home-church"],
+    "8": ["home-church"],
+    "37": ["ordinances"],
+    "38": ["biblical-love"]
+  }
+}

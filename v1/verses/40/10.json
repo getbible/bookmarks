@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 40,
+  "chapter": 10,
+  "verses": {
+    "22": ["conditional-security"],
+    "28": ["fear-not"],
+    "29": ["providence"],
+    "37": ["biblical-love"]
+  }
+}

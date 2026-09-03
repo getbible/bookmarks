@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 50,
+  "chapter": 4,
+  "verses": {
+    "1": ["biblical-love"],
+    "2": ["spiritual-judgment"],
+    "8": ["renewing-of-the-mind"],
+    "19": ["grace"]
+  }
+}

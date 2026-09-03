@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapters": {
+    "1": {
+      "1": ["authority-of-the-bible"],
+      "2": ["authority-of-the-bible"],
+      "3": ["authority-of-the-bible"],
+      "4": ["authority-of-the-bible"],
+      "13": ["family-planning"],
+      "15": ["wine"],
+      "30": ["fear-not", "jesus-christs-deity"],
+      "31": ["jesus-christs-deity", "jesus-christs-humanity"],
+      "32": ["immutability", "jesus-christs-deity"],
+      "33": ["immutability", "jesus-christs-deity"],
+      "35": ["jesus-christs-deity"],
+      "37": ["omnipotent"]
+    },
+    "2": {
+      "7": ["jesus-christs-humanity"],
+      "10": ["fear-not"],
+      "40": ["wisdom-origin"],
+      "49": ["jesus-christs-deity"]
+    },
+    "3": {
+      "4": ["spiritual-rebirth"],
+      "5": ["spiritual-rebirth"],
+      "6": ["spiritual-rebirth"],
+      "12": ["baptism"],
+      "16": ["baptism"],
+      "21": ["baptism"]
+    },
+    "4": {
+      "5": ["prince-of-this-world"],
+      "6": ["prince-of-this-world"],
+      "7": ["prince-of-this-world"],
+      "8": ["prince-of-this-world"],
+      "13": ["prince-of-this-world"]
+    },
+    "5": {
+      "10": ["fear-not"],
+      "20": ["saved-by-faith"],
+      "32": ["repentance"]
+    },
+    "6": {
+      "27": ["biblical-love", "non-resistance"],
+      "28": ["blessings-and-curses", "non-resistance"],
+      "29": ["non-resistance"],
+      "40": ["education"]
+    },
+    "7": {
+      "22": ["dietary-guidance"],
+      "29": ["baptism"],
+      "30": ["baptism"],
+      "33": ["dietary-guidance"],
+      "34": ["dietary-guidance"],
+      "47": ["biblical-love"],
+      "50": ["saved-by-faith"]
+    },
+    "8": {
+      "50": ["fear-not"]
+    },
+    "9": {
+      "5": ["no-fellowship"]
+    },
+    "10": {
+      "7": ["dietary-guidance"],
+      "8": ["dietary-guidance"],
+      "27": ["longevity", "what-is-life"],
+      "28": ["longevity", "what-is-life"]
+    },
+    "12": {
+      "7": ["fear-not"],
+      "8": ["free-will"],
+      "22": ["dietary-guidance"],
+      "23": ["dietary-guidance"],
+      "32": ["fear-not"],
+      "45": ["wine"],
+      "48": ["gods-judgment"]
+    },
+    "15": {
+      "10": ["repentance"]
+    },
+    "16": {
+      "18": ["adultery"]
+    },
+    "17": {
+      "33": ["what-is-life"]
+    },
+    "18": {
+      "18": ["no-one-is-good"],
+      "19": ["no-one-is-good"],
+      "42": ["saved-by-faith", "spiritual-rebirth"]
+    },
+    "19": {
+      "22": ["gods-judgment"]
+    },
+    "21": {
+      "15": ["wisdom-fruit", "wisdom-origin"],
+      "33": ["authority-of-the-bible"],
+      "34": ["wine"]
+    },
+    "22": {
+      "16": ["communion"],
+      "17": ["communion"],
+      "18": ["communion"],
+      "19": ["communion"],
+      "20": ["communion"],
+      "40": ["temptation"],
+      "46": ["temptation"],
+      "61": ["jesus-christs-deity"],
+      "69": ["jesus-christs-deity"],
+      "70": ["jesus-christs-deity"]
+    },
+    "24": {
+      "1": ["first-day"],
+      "2": ["first-day"],
+      "3": ["first-day"]
+    }
+  }
+}

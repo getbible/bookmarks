@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "book": 23,
+  "chapter": 33,
+  "verses": {
+    "6": ["wisdom-fruit"],
+    "16": ["conditional-security"]
+  }
+}

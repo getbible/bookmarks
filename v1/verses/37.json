@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 37,
+  "chapters": {
+    "2": {
+      "12": ["no-fellowship"],
+      "13": ["no-fellowship"],
+      "14": ["no-fellowship"]
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "book": 1,
+  "chapters": {
+    "1": {
+      "1": ["omnipotent"],
+      "26": ["mans-role"],
+      "27": ["marriage", "sodomy"],
+      "28": ["family-planning", "marriage"],
+      "29": ["dietary-guidance"]
+    },
+    "2": {
+      "7": ["what-is-life"],
+      "20": ["womans-role"],
+      "23": ["mans-role"],
+      "24": ["mans-role", "marriage", "sodomy"]
+    },
+    "3": {
+      "15": ["prince-of-this-world", "spirit-of-prophecy"],
+      "16": ["family-planning", "mans-role", "womans-role"],
+      "21": ["christian-clothing"]
+    },
+    "9": {
+      "2": ["mans-role"],
+      "3": ["dietary-guidance"],
+      "4": ["dietary-guidance"]
+    },
+    "12": {
+      "3": ["blessings-and-curses"]
+    },
+    "15": {
+      "1": ["fear-not"]
+    },
+    "17": {
+      "19": ["family-planning"]
+    },
+    "18": {
+      "19": ["education", "orderly-home"]
+    },
+    "20": {
+      "17": ["family-planning"],
+      "18": ["family-planning"]
+    },
+    "21": {
+      "1": ["family-planning"],
+      "2": ["family-planning"]
+    },
+    "24": {
+      "3": ["dating"],
+      "4": ["dating"],
+      "5": ["dating"],
+      "6": ["dating"],
+      "65": ["christian-clothing", "dating"]
+    },
+    "25": {
+      "21": ["family-planning"]
+    },
+    "26": {
+      "24": ["fear-not"]
+    },
+    "29": {
+      "11": ["dating"],
+      "12": ["dating"],
+      "13": ["dating"],
+      "14": ["dating"],
+      "15": ["dating"],
+      "16": ["dating"],
+      "17": ["dating"],
+      "18": ["dating"],
+      "19": ["dating"],
+      "20": ["dating"],
+      "31": ["family-planning"]
+    },
+    "30": {
+      "2": ["family-planning"],
+      "22": ["family-planning"]
+    },
+    "33": {
+      "5": ["family-planning"]
+    },
+    "46": {
+      "3": ["fear-not"]
+    },
+    "48": {
+      "9": ["family-planning"]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapter": 10,
+  "verses": {
+    "7": ["dietary-guidance"],
+    "8": ["dietary-guidance"],
+    "27": ["longevity", "what-is-life"],
+    "28": ["longevity", "what-is-life"]
+  }
+}

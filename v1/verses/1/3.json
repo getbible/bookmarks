@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "book": 1,
+  "chapter": 3,
+  "verses": {
+    "15": ["prince-of-this-world", "spirit-of-prophecy"],
+    "16": ["family-planning", "mans-role", "womans-role"],
+    "21": ["christian-clothing"]
+  }
+}

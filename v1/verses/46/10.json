@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "book": 46,
+  "chapter": 10,
+  "verses": {
+    "2": ["baptism"],
+    "13": ["temptation"],
+    "16": ["communion", "ordinances"],
+    "21": ["communion"],
+    "23": ["dietary-guidance"],
+    "24": ["dietary-guidance"],
+    "25": ["dietary-guidance"],
+    "26": ["dietary-guidance"],
+    "27": ["dietary-guidance"],
+    "28": ["dietary-guidance"],
+    "29": ["dietary-guidance"],
+    "30": ["dietary-guidance"],
+    "31": ["dietary-guidance"],
+    "32": ["dietary-guidance"],
+    "33": ["dietary-guidance"]
+  }
+}

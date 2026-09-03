@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "book": 22,
+  "chapters": {
+    "2": {
+      "7": ["dating"]
+    },
+    "3": {
+      "5": ["dating"]
+    },
+    "8": {
+      "4": ["dating"],
+      "7": ["marriage"]
+    }
+  }
+}

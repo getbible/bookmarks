@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "book": 44,
+  "chapters": {
+    "1": {
+      "13": ["home-church"],
+      "14": ["home-church"],
+      "15": ["home-church"],
+      "16": ["authority-of-the-bible"],
+      "24": ["omniscient"]
+    },
+    "2": {
+      "21": ["free-will", "spiritual-rebirth"],
+      "30": ["jesus-christs-humanity"],
+      "37": ["spiritual-rebirth"],
+      "38": ["baptism", "ordinances", "spiritual-rebirth"],
+      "39": ["spiritual-rebirth"],
+      "40": ["spiritual-rebirth"],
+      "41": ["baptism"],
+      "42": ["authority-of-the-bible", "communion"],
+      "46": ["home-church"]
+    },
+    "3": {
+      "19": ["repentance"]
+    },
+    "4": {
+      "12": ["spiritual-rebirth"]
+    },
+    "5": {
+      "1": ["spiritual-judgment"],
+      "2": ["spiritual-judgment"],
+      "3": ["spiritual-judgment"],
+      "4": ["spiritual-judgment"],
+      "5": ["spiritual-judgment"],
+      "6": ["spiritual-judgment"],
+      "7": ["spiritual-judgment"],
+      "8": ["spiritual-judgment"],
+      "9": ["spiritual-judgment"],
+      "10": ["spiritual-judgment"],
+      "29": ["obey-gods-commandments"],
+      "39": ["immutability"]
+    },
+    "6": {
+      "3": ["christian-offices", "wisdom-fruit"]
+    },
+    "8": {
+      "12": ["baptism"],
+      "36": ["baptism"],
+      "37": ["baptism"],
+      "38": ["baptism"]
+    },
+    "9": {
+      "18": ["baptism"]
+    },
+    "10": {
+      "43": ["free-will"],
+      "47": ["baptism"],
+      "48": ["baptism", "ordinances"]
+    },
+    "11": {
+      "23": ["grace"],
+      "27": ["christian-offices"],
+      "28": ["christian-offices"],
+      "29": ["christian-offices"],
+      "30": ["christian-offices"]
+    },
+    "12": {
+      "12": ["home-church"]
+    },
+    "13": {
+      "39": ["not-under-the-law"],
+      "43": ["grace"]
+    },
+    "15": {
+      "2": ["christian-offices"],
+      "11": ["grace", "spiritual-rebirth"],
+      "18": ["omniscient"],
+      "29": ["dating"]
+    },
+    "16": {
+      "4": ["christian-offices"],
+      "14": ["baptism"],
+      "15": ["baptism"],
+      "31": ["baptism", "spiritual-rebirth"]
+    },
+    "17": {
+      "27": ["omnipresent"],
+      "30": ["free-will", "repentance"],
+      "31": ["gods-judgment"]
+    },
+    "18": {
+      "7": ["home-church"],
+      "8": ["baptism"]
+    },
+    "19": {
+      "3": ["baptism"],
+      "4": ["baptism"],
+      "5": ["baptism"],
+      "19": ["no-fellowship"]
+    },
+    "20": {
+      "7": ["communion", "first-day", "home-church"],
+      "8": ["home-church"],
+      "37": ["ordinances"],
+      "38": ["biblical-love"]
+    },
+    "21": {
+      "13": ["biblical-love"]
+    },
+    "22": {
+      "16": ["baptism", "ordinances"]
+    },
+    "23": {
+      "5": ["obey-government-laws"]
+    },
+    "27": {
+      "24": ["fear-not"]
+    },
+    "28": {
+      "23": ["home-church"],
+      "25": ["authority-of-the-bible"]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "book": 25,
+  "chapters": {
+    "2": {
+      "19": ["education"]
+    },
+    "3": {
+      "22": ["grace"],
+      "23": ["grace"],
+      "60": ["omnipresent"]
+    },
+    "5": {
+      "19": ["immutability"]
+    }
+  }
+}

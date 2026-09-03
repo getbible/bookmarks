@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapter": 8,
+  "verses": {
+    "50": ["fear-not"]
+  }
+}

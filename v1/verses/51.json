@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "book": 51,
+  "chapters": {
+    "1": {
+      "8": ["biblical-love"],
+      "15": ["jesus-christs-deity"]
+    },
+    "2": {
+      "8": ["education"],
+      "9": ["jesus-christs-deity"],
+      "12": ["baptism", "ordinances"],
+      "16": ["dietary-guidance", "first-day"],
+      "20": ["dietary-guidance", "longevity"],
+      "21": ["dietary-guidance", "longevity"],
+      "22": ["dietary-guidance", "longevity"],
+      "23": ["dietary-guidance", "longevity"]
+    },
+    "3": {
+      "5": ["dating"],
+      "10": ["renewing-of-the-mind"],
+      "12": ["biblical-love"],
+      "13": ["biblical-love"],
+      "14": ["biblical-love"],
+      "18": ["marriage", "orderly-home", "womans-role"],
+      "19": ["mans-role", "marriage", "orderly-home"],
+      "20": ["orderly-home"],
+      "21": ["mans-role"]
+    },
+    "4": {
+      "15": ["home-church"]
+    }
+  }
+}

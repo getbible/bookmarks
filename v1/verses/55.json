@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "book": 55,
+  "chapters": {
+    "1": {
+      "6": ["spiritual-gifts"],
+      "11": ["christian-offices"],
+      "13": ["biblical-love"],
+      "16": ["biblical-love"],
+      "17": ["biblical-love"]
+    },
+    "2": {
+      "1": ["christian-offices", "grace"],
+      "2": ["christian-offices"],
+      "3": ["christian-offices"],
+      "4": ["christian-offices"],
+      "5": ["christian-offices"],
+      "6": ["christian-offices"],
+      "7": ["christian-offices"],
+      "8": ["jesus-christs-humanity"],
+      "13": ["immutability"],
+      "15": ["leadership"],
+      "19": ["immutability"],
+      "22": ["dating", "no-fellowship"]
+    },
+    "3": {
+      "2": ["no-fellowship"],
+      "3": ["no-fellowship"],
+      "4": ["no-fellowship"],
+      "5": ["no-fellowship"],
+      "14": ["education"],
+      "15": ["authority-of-the-bible", "education", "wisdom-cause"],
+      "16": ["authority-of-the-bible", "word-of-god"]
+    },
+    "4": {
+      "10": ["conditional-security"],
+      "18": ["providence"]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "book": 59,
+  "chapters": {
+    "1": {
+      "2": ["temptation"],
+      "3": ["temptation"],
+      "4": ["temptation"],
+      "5": ["wisdom-origin"],
+      "6": ["effective-prayer"],
+      "12": ["temptation"],
+      "13": ["temptation"],
+      "14": ["temptation"],
+      "17": ["immutability", "spiritual-gifts"],
+      "27": ["no-fellowship"]
+    },
+    "2": {
+      "8": ["biblical-love"],
+      "9": ["flattery"]
+    },
+    "3": {
+      "1": ["leadership"],
+      "7": ["mans-role"],
+      "8": ["blessings-and-curses"],
+      "9": ["blessings-and-curses"],
+      "10": ["blessings-and-curses"],
+      "13": ["wisdom-fruit"],
+      "15": ["worldly-wisdom"],
+      "17": ["wisdom-fruit"]
+    },
+    "4": {
+      "3": ["effective-prayer"],
+      "4": ["adultery", "no-fellowship"],
+      "6": ["grace"],
+      "14": ["what-is-life"]
+    },
+    "5": {
+      "14": ["christian-offices", "ordinances"],
+      "15": ["ordinances"],
+      "20": ["repentance"]
+    }
+  }
+}

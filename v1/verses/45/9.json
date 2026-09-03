@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "book": 45,
+  "chapter": 9,
+  "verses": {
+    "5": ["jesus-christs-deity", "jesus-christs-humanity"],
+    "16": ["grace", "not-under-the-law"],
+    "23": ["grace"]
+  }
+}

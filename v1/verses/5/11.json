@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "book": 5,
+  "chapter": 11,
+  "verses": {
+    "8": ["obey-gods-commandments"],
+    "19": ["education"],
+    "20": ["education"],
+    "21": ["education", "longevity"],
+    "26": ["blessings-and-curses"],
+    "27": ["blessings-and-curses"],
+    "28": ["blessings-and-curses"]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "book": 10,
+  "chapter": 7,
+  "verses": {
+    "9": ["providence"],
+    "14": ["discipline"]
+  }
+}

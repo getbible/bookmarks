@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 23,
+  "chapter": 43,
+  "verses": {
+    "1": ["fear-not"],
+    "2": ["conditional-security"],
+    "5": ["fear-not"],
+    "13": ["omnipotent"]
+  }
+}

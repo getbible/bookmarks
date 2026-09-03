@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapter": 21,
+  "verses": {
+    "15": ["wisdom-fruit", "wisdom-origin"],
+    "33": ["authority-of-the-bible"],
+    "34": ["wine"]
+  }
+}

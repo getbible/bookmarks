@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 18,
+  "verses": {
+    "4": ["wisdom-value"],
+    "22": ["marriage"]
+  }
+}

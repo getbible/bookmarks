@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "book": 38,
+  "chapters": {
+    "1": {
+      "4": ["repentance"]
+    },
+    "2": {
+      "5": ["conditional-security"]
+    },
+    "8": {
+      "2": ["longevity"],
+      "3": ["longevity"],
+      "13": ["fear-not"]
+    },
+    "10": {
+      "6": ["effective-prayer"]
+    },
+    "13": {
+      "9": ["discipline"]
+    }
+  }
+}

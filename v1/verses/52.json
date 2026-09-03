@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "book": 52,
+  "chapters": {
+    "2": {
+      "5": ["flattery"]
+    },
+    "3": {
+      "12": ["biblical-love"]
+    },
+    "4": {
+      "3": ["dating"],
+      "4": ["dating"],
+      "5": ["dating"],
+      "6": ["dating"],
+      "7": ["dating"],
+      "9": ["biblical-love"]
+    },
+    "5": {
+      "9": ["spiritual-rebirth"],
+      "10": ["spiritual-gifts"],
+      "14": ["spiritual-judgment"],
+      "15": ["non-resistance"],
+      "24": ["providence"]
+    }
+  }
+}

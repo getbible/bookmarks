@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 39,
+  "chapter": 2,
+  "verses": {
+    "2": ["blessings-and-curses"],
+    "14": ["adultery"],
+    "15": ["adultery", "family-planning"],
+    "16": ["adultery"]
+  }
+}

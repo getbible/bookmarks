@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "book": 27,
+  "chapters": {
+    "1": {
+      "17": ["wisdom-origin"],
+      "20": ["wisdom-origin"]
+    },
+    "2": {
+      "20": ["wisdom-origin"],
+      "21": ["wisdom-origin"],
+      "22": ["omniscient", "wisdom-origin"],
+      "23": ["wisdom-origin"]
+    },
+    "4": {
+      "3": ["immutability"],
+      "34": ["immutability"],
+      "35": ["immutability", "omnipotent"]
+    },
+    "5": {
+      "4": ["wine"]
+    },
+    "6": {
+      "26": ["immutability"]
+    },
+    "7": {
+      "13": ["immutability"],
+      "14": ["immutability"],
+      "27": ["immutability"]
+    },
+    "9": {
+      "12": ["authority-of-the-bible"],
+      "16": ["effective-prayer"],
+      "18": ["grace"]
+    },
+    "10": {
+      "12": ["fear-not"],
+      "19": ["fear-not"]
+    },
+    "11": {
+      "21": ["flattery"],
+      "32": ["flattery"]
+    }
+  }
+}

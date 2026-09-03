@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "book": 55,
+  "chapter": 3,
+  "verses": {
+    "2": ["no-fellowship"],
+    "3": ["no-fellowship"],
+    "4": ["no-fellowship"],
+    "5": ["no-fellowship"],
+    "14": ["education"],
+    "15": ["authority-of-the-bible", "education", "wisdom-cause"],
+    "16": ["authority-of-the-bible", "word-of-god"]
+  }
+}

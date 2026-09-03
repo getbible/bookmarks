@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "catalog_version": 1,
+  "checksum": "2a8d4f5e06efb4006e8f0b52b790ef5861dc9152f746678d77e3255b7b3f42a3",
+  "counts": {
+    "topics": 61,
+    "verses": 2155,
+    "locales": 69,
+    "retired": 0
+  },
+  "resources": {
+    "index": "index.json",
+    "catalog": "catalog.json",
+    "all": "all.json",
+    "topics": "topics.json",
+    "topic": "topics/{id}.json",
+    "book": "verses/{book}.json",
+    "chapter": "verses/{book}/{chapter}.json",
+    "locales": "locales.json",
+    "locale": "locales/{locale}.json",
+    "retired": "retired.json",
+    "checksums": "checksums.json"
+  },
+  "locales": ["af", "ar", "br", "ch", "chr", "cop", "cs", "cu", "da", "de", "el", "en", "enm", "eo", "es", "et", "eu", "fi", "fr", "gd", "got", "grc", "gv", "hbo", "he", "hr", "hu", "hy", "it", "ja", "ko", "la", "lt", "lv", "mg", "mi", "mlf", "mn", "my", "nb", "nd", "nl", "nn", "pl", "pon", "pot", "ppk", "prs", "pt", "rmq", "ro", "ru", "sn", "sq", "sr", "sv", "sw", "syr", "th", "tl", "tlh", "tpi", "tr", "tsg", "uk", "vi", "zh", "zh-hans", "zh-hant"]
+}

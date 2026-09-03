@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "book": 54,
+  "chapter": 5,
+  "verses": {
+    "4": ["marriage"],
+    "10": ["ordinances"],
+    "14": ["family-planning"],
+    "17": ["christian-offices", "leadership"],
+    "18": ["christian-offices", "leadership"],
+    "19": ["christian-offices", "leadership"],
+    "22": ["no-fellowship"],
+    "23": ["wine"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "book": 51,
+  "chapter": 3,
+  "verses": {
+    "5": ["dating"],
+    "10": ["renewing-of-the-mind"],
+    "12": ["biblical-love"],
+    "13": ["biblical-love"],
+    "14": ["biblical-love"],
+    "18": ["marriage", "orderly-home", "womans-role"],
+    "19": ["mans-role", "marriage", "orderly-home"],
+    "20": ["orderly-home"],
+    "21": ["mans-role"]
+  }
+}

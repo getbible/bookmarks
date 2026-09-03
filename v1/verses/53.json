@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "book": 53,
+  "chapters": {
+    "2": {
+      "8": ["prince-of-this-world"],
+      "13": ["providence"],
+      "15": ["authority-of-the-bible"]
+    },
+    "3": {
+      "6": ["no-fellowship"],
+      "14": ["no-fellowship"]
+    }
+  }
+}

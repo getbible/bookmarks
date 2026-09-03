@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "book": 4,
+  "chapters": {
+    "5": {
+      "2": ["no-fellowship"]
+    },
+    "23": {
+      "8": ["blessings-and-curses"]
+    },
+    "30": {
+      "12": ["mans-role"],
+      "13": ["mans-role"],
+      "14": ["mans-role"],
+      "15": ["mans-role"]
+    }
+  }
+}

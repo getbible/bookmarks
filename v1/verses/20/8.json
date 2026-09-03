@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 8,
+  "verses": {
+    "10": ["discipline"],
+    "11": ["wisdom-value"],
+    "17": ["free-will"],
+    "33": ["wisdom-cause"]
+  }
+}

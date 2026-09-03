@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "book": 56,
+  "chapter": 1,
+  "verses": {
+    "2": ["immutability"],
+    "5": ["christian-offices"],
+    "6": ["christian-offices"],
+    "7": ["christian-offices", "wine"],
+    "8": ["christian-offices"],
+    "9": ["christian-offices"]
+  }
+}

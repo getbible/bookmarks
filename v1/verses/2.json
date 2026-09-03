@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "book": 2,
+  "chapters": {
+    "6": {
+      "6": ["gods-judgment"]
+    },
+    "12": {
+      "12": ["gods-judgment"]
+    },
+    "20": {
+      "6": ["obey-gods-commandments"],
+      "12": ["longevity"],
+      "14": ["adultery"]
+    },
+    "22": {
+      "28": ["obey-government-laws"]
+    },
+    "23": {
+      "2": ["no-fellowship"],
+      "4": ["non-resistance"]
+    },
+    "28": {
+      "3": ["wisdom-origin"],
+      "42": ["christian-clothing"]
+    },
+    "31": {
+      "3": ["wisdom-origin"]
+    },
+    "33": {
+      "20": ["effective-prayer"]
+    },
+    "34": {
+      "7": ["gods-judgment"],
+      "12": ["no-fellowship"]
+    }
+  }
+}

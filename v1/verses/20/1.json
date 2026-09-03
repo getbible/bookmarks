@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 1,
+  "verses": {
+    "7": ["discipline", "wisdom-fruit"],
+    "8": ["discipline", "education"],
+    "10": ["temptation"],
+    "15": ["no-fellowship"],
+    "16": ["no-fellowship"],
+    "20": ["wisdom-origin"],
+    "21": ["wisdom-origin"],
+    "22": ["wisdom-origin"],
+    "23": ["wisdom-origin"],
+    "24": ["gods-judgment"],
+    "25": ["gods-judgment"],
+    "26": ["gods-judgment"],
+    "27": ["gods-judgment"],
+    "28": ["gods-judgment"],
+    "29": ["gods-judgment"],
+    "30": ["gods-judgment"],
+    "31": ["gods-judgment"],
+    "33": ["conditional-security"]
+  }
+}

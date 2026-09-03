@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "book": 18,
+  "chapter": 28,
+  "verses": {
+    "12": ["wisdom-value"],
+    "13": ["wisdom-value"],
+    "14": ["wisdom-value"],
+    "15": ["wisdom-value"],
+    "16": ["wisdom-value"],
+    "18": ["wisdom-value"],
+    "19": ["wisdom-value"],
+    "20": ["wisdom-value"],
+    "21": ["wisdom-value"],
+    "22": ["wisdom-value"],
+    "23": ["wisdom-value"],
+    "24": ["omnipresent", "wisdom-value"],
+    "25": ["wisdom-value"],
+    "26": ["wisdom-value"],
+    "27": ["wisdom-value"],
+    "28": ["wisdom-cause", "wisdom-value"]
+  }
+}

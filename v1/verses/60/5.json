@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "book": 60,
+  "chapter": 5,
+  "verses": {
+    "1": ["christian-offices"],
+    "5": ["grace"],
+    "14": ["ordinances"]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "book": 42,
+  "chapter": 1,
+  "verses": {
+    "1": ["authority-of-the-bible"],
+    "2": ["authority-of-the-bible"],
+    "3": ["authority-of-the-bible"],
+    "4": ["authority-of-the-bible"],
+    "13": ["family-planning"],
+    "15": ["wine"],
+    "30": ["fear-not", "jesus-christs-deity"],
+    "31": ["jesus-christs-deity", "jesus-christs-humanity"],
+    "32": ["immutability", "jesus-christs-deity"],
+    "33": ["immutability", "jesus-christs-deity"],
+    "35": ["jesus-christs-deity"],
+    "37": ["omnipotent"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "book": 40,
+  "chapter": 5,
+  "verses": {
+    "17": ["authority-of-the-bible"],
+    "18": ["authority-of-the-bible"],
+    "27": ["adultery"],
+    "28": ["adultery", "dating"],
+    "31": ["adultery"],
+    "32": ["adultery"],
+    "39": ["non-resistance"],
+    "40": ["non-resistance"],
+    "41": ["non-resistance"],
+    "42": ["non-resistance"],
+    "43": ["biblical-love", "non-resistance"],
+    "44": ["biblical-love", "non-resistance"],
+    "45": ["providence"]
+  }
+}

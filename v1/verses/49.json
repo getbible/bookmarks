@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "book": 49,
+  "chapters": {
+    "1": {
+      "4": ["omniscient"],
+      "7": ["grace"],
+      "18": ["renewing-of-the-mind"]
+    },
+    "2": {
+      "2": ["prince-of-this-world"],
+      "5": ["grace"],
+      "7": ["grace"],
+      "8": ["grace", "saved-by-faith", "spiritual-rebirth"],
+      "9": ["grace"]
+    },
+    "3": {
+      "5": ["christian-offices"],
+      "7": ["grace"],
+      "17": ["biblical-love"],
+      "18": ["biblical-love"],
+      "19": ["biblical-love"],
+      "20": ["effective-prayer"]
+    },
+    "4": {
+      "5": ["baptism"],
+      "7": ["grace"],
+      "11": ["christian-offices"],
+      "12": ["christian-offices", "leadership"],
+      "16": ["biblical-love"],
+      "23": ["renewing-of-the-mind"]
+    },
+    "5": {
+      "2": ["biblical-love"],
+      "3": ["dating"],
+      "11": ["no-fellowship"],
+      "18": ["wine"],
+      "22": ["womans-role"],
+      "23": ["mans-role", "marriage", "womans-role"],
+      "24": ["marriage", "womans-role"],
+      "25": ["mans-role", "marriage"],
+      "28": ["mans-role"],
+      "31": ["marriage"],
+      "33": ["mans-role", "marriage", "womans-role"]
+    },
+    "6": {
+      "1": ["orderly-home"],
+      "2": ["longevity", "orderly-home"],
+      "3": ["longevity"],
+      "4": ["education", "orderly-home"],
+      "12": ["non-resistance"],
+      "13": ["temptation"],
+      "24": ["biblical-love"]
+    }
+  }
+}

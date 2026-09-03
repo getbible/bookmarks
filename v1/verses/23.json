@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "book": 23,
+  "chapters": {
+    "1": {
+      "15": ["effective-prayer"],
+      "17": ["free-will"],
+      "18": ["free-will"]
+    },
+    "5": {
+      "11": ["musics-influence", "wine"],
+      "12": ["musics-influence", "wine"],
+      "13": ["musics-influence", "wine"],
+      "14": ["musics-influence"],
+      "21": ["worldly-wisdom"],
+      "22": ["wine"],
+      "23": ["wine"]
+    },
+    "6": {
+      "5": ["no-one-is-good"]
+    },
+    "7": {
+      "14": ["jesus-christs-humanity", "spirit-of-prophecy"],
+      "15": ["jesus-christs-humanity"],
+      "16": ["jesus-christs-humanity"]
+    },
+    "8": {
+      "20": ["authority-of-the-bible"]
+    },
+    "9": {
+      "6": ["jesus-christs-humanity", "spirit-of-prophecy"],
+      "7": ["immutability"]
+    },
+    "11": {
+      "1": ["jesus-christs-humanity", "spirit-of-prophecy", "wisdom-origin"],
+      "2": ["spirit-of-prophecy", "wisdom-origin"]
+    },
+    "14": {
+      "11": ["musics-influence"],
+      "27": ["immutability"]
+    },
+    "25": {
+      "1": ["immutability"]
+    },
+    "28": {
+      "7": ["wine"],
+      "16": ["conditional-security"]
+    },
+    "29": {
+      "14": ["worldly-wisdom"]
+    },
+    "32": {
+      "17": ["conditional-security"],
+      "18": ["conditional-security"]
+    },
+    "33": {
+      "6": ["wisdom-fruit"],
+      "16": ["conditional-security"]
+    },
+    "35": {
+      "3": ["biblical-love"],
+      "4": ["fear-not"]
+    },
+    "38": {
+      "19": ["education"]
+    },
+    "40": {
+      "8": ["authority-of-the-bible", "word-of-god"],
+      "10": ["omnipotent"],
+      "28": ["omnipotent", "omniscient"],
+      "29": ["omnipotent"]
+    },
+    "41": {
+      "4": ["immutability"],
+      "13": ["fear-not"],
+      "14": ["fear-not"]
+    },
+    "43": {
+      "1": ["fear-not"],
+      "2": ["conditional-security"],
+      "5": ["fear-not"],
+      "13": ["omnipotent"]
+    },
+    "44": {
+      "2": ["fear-not"]
+    },
+    "45": {
+      "22": ["free-will"]
+    },
+    "46": {
+      "10": ["immutability", "omniscient"]
+    },
+    "47": {
+      "2": ["christian-clothing"],
+      "3": ["christian-clothing"]
+    },
+    "48": {
+      "22": ["gods-judgment"]
+    },
+    "51": {
+      "16": ["authority-of-the-bible"]
+    },
+    "53": {
+      "1": ["spirit-of-prophecy"],
+      "2": ["spirit-of-prophecy"],
+      "3": ["spirit-of-prophecy"],
+      "4": ["spirit-of-prophecy"],
+      "5": ["spirit-of-prophecy"],
+      "6": ["spirit-of-prophecy"],
+      "7": ["spirit-of-prophecy"],
+      "8": ["spirit-of-prophecy"],
+      "9": ["spirit-of-prophecy"],
+      "10": ["spirit-of-prophecy"],
+      "11": ["spirit-of-prophecy"],
+      "12": ["spirit-of-prophecy"]
+    },
+    "54": {
+      "4": ["fear-not"]
+    },
+    "55": {
+      "1": ["free-will"],
+      "7": ["repentance"],
+      "11": ["word-of-god"]
+    },
+    "56": {
+      "1": ["spiritual-judgment"],
+      "10": ["wine"],
+      "11": ["wine"],
+      "12": ["wine"]
+    },
+    "57": {
+      "15": ["immutability"],
+      "21": ["gods-judgment"]
+    },
+    "59": {
+      "1": ["omnipotent"],
+      "2": ["effective-prayer"]
+    },
+    "65": {
+      "22": ["longevity"]
+    },
+    "66": {
+      "1": ["omnipresent"],
+      "9": ["family-planning"]
+    }
+  }
+}

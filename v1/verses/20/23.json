@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 23,
+  "verses": {
+    "1": ["dietary-guidance"],
+    "2": ["dietary-guidance"],
+    "7": ["renewing-of-the-mind"],
+    "13": ["discipline"],
+    "14": ["discipline"],
+    "19": ["education"],
+    "20": ["wine"],
+    "21": ["wine"],
+    "23": ["discipline", "wisdom-value"],
+    "29": ["wine"],
+    "30": ["wine"],
+    "31": ["wine"],
+    "32": ["wine"],
+    "33": ["wine"],
+    "34": ["wine"],
+    "35": ["wine"]
+  }
+}

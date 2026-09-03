@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "book": 43,
+  "chapter": 3,
+  "verses": {
+    "3": ["spiritual-rebirth"],
+    "4": ["spiritual-rebirth"],
+    "5": ["baptism", "ordinances", "spiritual-rebirth"],
+    "6": ["spiritual-rebirth"],
+    "7": ["spiritual-rebirth"],
+    "8": ["spiritual-rebirth"],
+    "9": ["spiritual-rebirth"],
+    "10": ["spiritual-rebirth"],
+    "16": ["free-will", "spiritual-rebirth"],
+    "19": ["gods-judgment"],
+    "23": ["baptism"],
+    "36": ["what-is-life"]
+  }
+}

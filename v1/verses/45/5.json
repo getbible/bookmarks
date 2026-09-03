@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "book": 45,
+  "chapter": 5,
+  "verses": {
+    "1": ["saved-by-faith"],
+    "2": ["saved-by-faith"],
+    "6": ["spiritual-rebirth"],
+    "7": ["spiritual-rebirth"],
+    "8": ["biblical-love", "spiritual-rebirth"],
+    "9": ["spiritual-rebirth"],
+    "10": ["spiritual-rebirth"],
+    "12": ["no-one-is-good"],
+    "20": ["grace"],
+    "21": ["grace"]
+  }
+}

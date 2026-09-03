@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "book": 20,
+  "chapter": 4,
+  "verses": {
+    "1": ["discipline"],
+    "2": ["education"],
+    "7": ["wisdom-value"],
+    "10": ["education", "longevity"],
+    "13": ["discipline"],
+    "14": ["no-fellowship"],
+    "20": ["longevity"],
+    "21": ["longevity"],
+    "22": ["longevity"]
+  }
+}

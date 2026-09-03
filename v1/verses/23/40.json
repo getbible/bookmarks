@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 23,
+  "chapter": 40,
+  "verses": {
+    "8": ["authority-of-the-bible", "word-of-god"],
+    "10": ["omnipotent"],
+    "28": ["omnipotent", "omniscient"],
+    "29": ["omnipotent"]
+  }
+}

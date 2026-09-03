@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "book": 19,
+  "chapter": 127,
+  "verses": {
+    "1": ["education"],
+    "3": ["family-planning"],
+    "4": ["family-planning", "orderly-home"],
+    "5": ["family-planning", "orderly-home"]
+  }
+}

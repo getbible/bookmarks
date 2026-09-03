@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "book": 54,
+  "chapter": 3,
+  "verses": {
+    "1": ["christian-offices"],
+    "2": ["christian-offices", "mans-role"],
+    "3": ["christian-offices", "mans-role", "wine"],
+    "4": ["christian-offices", "education", "mans-role", "orderly-home"],
+    "5": ["christian-offices", "mans-role"],
+    "6": ["leadership", "mans-role"],
+    "7": ["christian-offices", "mans-role"],
+    "8": ["christian-offices", "mans-role", "wine"],
+    "9": ["christian-offices", "mans-role"],
+    "10": ["christian-offices", "mans-role"],
+    "11": ["mans-role", "womans-role"],
+    "12": ["education", "mans-role", "marriage"],
+    "13": ["mans-role"],
+    "16": ["jesus-christs-humanity"]
+  }
+}

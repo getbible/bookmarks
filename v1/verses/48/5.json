@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "book": 48,
+  "chapter": 5,
+  "verses": {
+    "4": ["grace"],
+    "5": ["saved-by-faith"],
+    "6": ["biblical-love"],
+    "13": ["biblical-love"],
+    "14": ["biblical-love"],
+    "15": ["biblical-love"],
+    "16": ["dating"],
+    "18": ["not-under-the-law"],
+    "19": ["adultery"],
+    "20": ["adultery"],
+    "21": ["adultery", "wine"],
+    "22": ["biblical-love"],
+    "23": ["biblical-love"],
+    "24": ["wine"]
+  }
+}
