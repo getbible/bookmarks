@@ -1,0 +1,2 @@
+# Human-maintained runtime intent; the exact hashed lock lives in requirements.txt.
+tornado>=6.5,<7
