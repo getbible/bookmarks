@@ -202,17 +202,23 @@ class Publisher:
                 f"Catalog-Version: {catalog.catalog_version}\n"
                 f"Checksum: {checksum}\n"
             )
-            self._git("add", "-A", "--", self.config.data_subdir, self.config.output_subdir)
-            self._git(
-                "-c",
-                "commit.gpgsign=false",
-                "commit",
-                "--quiet",
-                "--no-verify",
-                f"--author={actor.name} <{actor.email}>",
-                "-m",
-                message,
-            )
+            try:
+                self._git("add", "-A", "--", self.config.data_subdir, self.config.output_subdir)
+                self._git(
+                    "-c",
+                    "commit.gpgsign=false",
+                    "commit",
+                    "--quiet",
+                    "--no-verify",
+                    f"--author={actor.name} <{actor.email}>",
+                    "-m",
+                    message,
+                )
+            except PublishError:
+                # Leave the checkout exactly as HEAD describes it so the next
+                # mutation is not refused for a dirty tree we created.
+                self._restore_tracked_tree()
+                raise
             commit = self._head()
             pushed = self._push()
             self._publish_release()
@@ -321,6 +327,15 @@ class Publisher:
         if self.config.release_dir is None:
             return
         publish_release(self.config.output_dir, self.config.release_dir)
+
+    def _restore_tracked_tree(self) -> None:
+        paths = ("--", self.config.data_subdir, self.config.output_subdir)
+        with contextlib.suppress(PublishError):
+            self._git("reset", "--quiet", "HEAD", *paths)
+        with contextlib.suppress(PublishError):
+            self._git("checkout", "--quiet", "HEAD", *paths)
+        with contextlib.suppress(PublishError):
+            self._git("clean", "--quiet", "-fd", *paths)
 
     def _require_clean(self) -> None:
         status = self._git_output(

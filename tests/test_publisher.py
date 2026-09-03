@@ -220,6 +220,28 @@ class PublisherTests(unittest.TestCase):
         with self.assertRaisesRegex(PublishError, "stale"):
             publisher.sync()
 
+    def test_failed_commit_restores_the_checkout(self) -> None:
+        class FailingCommitPublisher(Publisher):
+            def _git(self, *arguments: str) -> None:
+                if arguments and "commit" in arguments[:3]:
+                    raise PublishError("simulated commit failure")
+                super()._git(*arguments)
+
+        publisher = FailingCommitPublisher(
+            PublisherConfig(repo_dir=self.fixture.clone, remote=None)
+        )
+        before = git(self.fixture.clone, "rev-parse", "HEAD")
+        with self.assertRaisesRegex(PublishError, "simulated"):
+            publisher.mutate(ACTOR, "x", lambda c: c.add_verses("grace", [[40, 1, 1]]))
+        self.assertEqual(git(self.fixture.clone, "rev-parse", "HEAD"), before)
+        self.assertEqual(git(self.fixture.clone, "status", "--porcelain"), "")
+        self.assertNotIn((40, 1, 1), load_catalog(self.fixture.clone / "data").links["grace"])
+        # The next mutation succeeds because the tree is clean again.
+        result = Publisher(PublisherConfig(repo_dir=self.fixture.clone, remote=None)).mutate(
+            ACTOR, "retry", lambda c: c.add_verses("grace", [[40, 1, 1]])
+        )
+        self.assertTrue(result.changed)
+
     def test_without_remote(self) -> None:
         publisher = Publisher(PublisherConfig(repo_dir=self.fixture.clone, remote=None))
         result = publisher.mutate(ACTOR, "Offline", lambda c: c.add_verses("grace", [[40, 1, 1]]))
