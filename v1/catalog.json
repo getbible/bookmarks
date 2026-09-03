@@ -1,6 +1,5 @@
 {
   "schema_version": 1,
-  "catalog_version": 1,
   "topics": [
     {
       "id": "adultery",
@@ -2706,6 +2705,5 @@
         [59, 3, 15]
       ]
     }
-  ],
-  "retired": []
+  ]
 }
