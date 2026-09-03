@@ -1,0 +1,11 @@
+[Unit]
+Description=Periodically pull merged bookmark changes and publish them
+
+[Timer]
+OnBootSec=2min
+OnUnitActiveSec=10min
+RandomizedDelaySec=60s
+Persistent=true
+
+[Install]
+WantedBy=timers.target
