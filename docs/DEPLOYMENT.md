@@ -24,14 +24,17 @@ repository is the deployment unit: `deploy/install.sh` sets the host up and
 
 ```bash
 git clone https://github.com/getbible/bookmarks.git /tmp/bookmarks
-sudo /tmp/bookmarks/deploy/install.sh --repo-url git@github.com:getbible/bookmarks.git
+sudo /tmp/bookmarks/deploy/install.sh
 ```
 
 The installer is idempotent. It creates the `getbible-bookmarks` system user,
 the directories above, the virtualenv from `requirements.txt` (hash verified),
-the checkout, `env` from `deploy/env.template`, an empty registry, the systemd
-units and timer, copies the nginx site into `sites-available`, and publishes
-the first release. It then prints the remaining manual steps:
+the checkout (cloned anonymously over HTTPS, with the push URL set to the SSH
+address so the deploy key is only needed for pushes), `env` from
+`deploy/env.template`, an empty registry, the systemd units and timer, copies
+the nginx site into `sites-available`, and publishes the first release. Use
+`--repo-url` and `--push-url` for a fork or mirror. It then prints the
+remaining manual steps:
 
 1. Create a deploy key with write access on GitHub and store it at
    `/etc/getbible-bookmarks/deploy_key`; add GitHub's host keys to

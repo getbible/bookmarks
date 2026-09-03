@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Host installer for the getBible bookmarks API (Debian/Ubuntu, run as root).
 #
-#   sudo deploy/install.sh [--repo-url URL] [--branch main] [--home /srv/getbible-bookmarks]
+#   sudo deploy/install.sh [--repo-url URL] [--push-url URL] [--branch main] [--home /srv/getbible-bookmarks]
 #
 # Creates the service user, a hashed-lock virtualenv, the checkout, the release
 # root, the environment file, the systemd units and installs the nginx site into
@@ -9,7 +9,10 @@
 # Re-running is safe: existing files are kept unless they are ours to regenerate.
 set -euo pipefail
 
-REPO_URL="git@github.com:getbible/bookmarks.git"
+# The initial clone uses anonymous HTTPS so no key is needed yet; pushes use the
+# SSH deploy key that is added afterwards.
+REPO_URL="https://github.com/getbible/bookmarks.git"
+PUSH_URL="git@github.com:getbible/bookmarks.git"
 BRANCH="main"
 HOME_DIR="/srv/getbible-bookmarks"
 USER_NAME="getbible-bookmarks"
@@ -19,6 +22,7 @@ PYTHON="${PYTHON:-python3}"
 while [ $# -gt 0 ]; do
   case "$1" in
     --repo-url) REPO_URL="$2"; shift 2 ;;
+    --push-url) PUSH_URL="$2"; shift 2 ;;
     --branch) BRANCH="$2"; shift 2 ;;
     --home) HOME_DIR="$2"; shift 2 ;;
     -h|--help) sed -n '2,12p' "$0"; exit 0 ;;
@@ -46,6 +50,7 @@ install -d -m 0750 -o root -g "$USER_NAME" "$CONF_DIR"
 if [ ! -d "$REPO_DIR/.git" ]; then
   sudo -u "$USER_NAME" git clone --branch "$BRANCH" "$REPO_URL" "$REPO_DIR"
 fi
+sudo -u "$USER_NAME" git -C "$REPO_DIR" remote set-url --push origin "$PUSH_URL"
 sudo -u "$USER_NAME" git -C "$REPO_DIR" config --local user.name "getBible Bookmarks Service"
 sudo -u "$USER_NAME" git -C "$REPO_DIR" config --local user.email "bookmarks@getbible.net"
 
@@ -86,7 +91,8 @@ cat <<MSG
 
 Next steps:
   1. Put a write-capable deploy key at $CONF_DIR/deploy_key (mode 0600, owner $USER_NAME)
-     and GitHub's host key in $CONF_DIR/known_hosts, then check $CONF_DIR/env.
+     and GitHub's host key in $CONF_DIR/known_hosts (ssh-keyscan github.com), then check
+     $CONF_DIR/env. Fetches use $REPO_URL; pushes use $PUSH_URL with that key.
   2. Enrol contributors:
        sudo -u $USER_NAME $VENV_DIR/bin/getbible-bookmarks tokens --file $CONF_DIR/contributors.json \\
          create --id <id> --name "<Git author name>" --email <git author email> --role contributor
