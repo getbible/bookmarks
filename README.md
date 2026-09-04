@@ -12,6 +12,30 @@ part of the default starter set, translated names in many locales, and a list
 of **verses** that speak to the topic. Verses are translation-independent
 coordinates in the 66-book Protestant canon; no Scripture text is included.
 
+## In memory of Brother Jaco van der Merwe
+
+The catalog and bookmarks were originally created from notes gathered by Brother Jaco van der Merwe.
+
+Brother Jaco served faithfully for many years in mission work in Namibia and was part of the True Christian Church Brotherhood. Several years ago, he passed on to glory, leaving behind a testimony of faithful service and a sincere desire to point people to the Word of God.
+
+The material that eventually became the catalog began very simply. Brother Jaco regularly spoke with people he met in the course of everyday life and mission work. Because of his beard and his manner of dress, people would sometimes make remarks or ask him questions. He saw these encounters as opportunities to speak with them about the Lord and the Scriptures.
+
+As conversations developed, people would often ask questions about particular Bible subjects, Christian practices, or matters of faith. Brother Jaco began collecting Bible verses on his phone according to the different topics people asked him about. His purpose was not merely to give his own opinion, but to be able to turn directly to the Scriptures and show people what the Bible had to say.
+
+Over time, this collection grew. It became, in a very practical sense, the working notes of an evangelist—Bible passages gathered through real conversations with people on the street and through the questions they sincerely wanted answered. As different subjects arose, Brother Jaco collected the verses that the Lord brought to his attention so that he could give people an answer from the Word of God.
+
+This was especially important to him because he did not want people simply to dismiss what he said as his personal belief or opinion. Instead, he wanted them to be able to read the verses for themselves and see that the answers being given were grounded in Scripture.
+
+One day, Brother Jaco's son (Llewellyn van der Merwe) saw the collection of topics and Bible references on his father's phone. Recognizing the usefulness of what had been gathered, he asked whether Brother Jaco would be willing to contribute those notes. From that simple beginning, the catalog was started.
+
+The catalog of bookmakrs grew out of years of personal evangelism, conversations, questions, and opportunities to share the Gospel. Its topics reflect the kinds of questions ordinary people asked, and its verse references reflect Brother Jaco's desire to direct those people away from human opinion and toward the authority of the Bible.
+
+The bookmarks and catalog remain a testimony to that purpose: to provide a practical Bible-help tool through which a person can quickly find Scriptures related to a particular subject and use the Word of God to answer sincere questions.
+
+They are, in many ways, the collected notes of an evangelist—formed through years of meeting people, listening to their questions, and searching the Scriptures for answers that could be shared with them. Brother Jaco's desire was that people would not simply hear what a man thought, but that they would be shown what the Bible says and be encouraged to search the Scriptures for themselves.
+
+Today this catalog of bookmarks are expanded by his children and grand children.
+
 ## Files
 
 | Path | Contents |
